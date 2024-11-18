@@ -1,0 +1,1375 @@
+[
+  {
+    "name": "Afghanistan",
+    "capital": "Kabul",
+    "flag": "/flags/AFG.png",
+    "fact": "Afghanistan is known for its mountainous terrain and rich history.",
+    "continent": "Asia" 
+  },
+  {
+    "name": "Albania",
+    "capital": "Tirana",
+    "flag": "/flags/ALB.png",
+    "fact": "Albania is famous for its castles and archaeological sites.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Algeria",
+    "capital": "Algiers",
+    "flag": "/flags/DZA.png",
+    "fact": "Algeria is the largest country in Africa.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Andorra",
+    "capital": "Andorra la Vella",
+    "flag": "/flags/AND.png",
+    "fact": "Andorra is known for its ski resorts and a tax-haven status.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Angola",
+    "capital": "Luanda",
+    "flag": "/flags/AGO.png",
+    "fact": "Angola has a diverse range of landscapes and wildlife.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "flag": "/flags/ARG.png",
+    "fact": "Argentina is famous for tango dance and music.",
+    "continent": "South America"
+  },
+  {
+    "name": "Armenia",
+    "capital": "Yerevan",
+    "flag": "/flags/ARM.png",
+    "fact": "Armenia is one of the oldest wine-producing countries in the world.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Australia",
+    "capital": "Canberra",
+    "flag": "/flags/AUS.png",
+    "fact": "Australia is home to the Great Barrier Reef.",
+    "continent": "Australia"
+  },
+  {
+    "name": "Austria",
+    "capital": "Vienna",
+    "flag": "/flags/AUT.png",
+    "fact": "Austria is famous for its classical music and alpine skiing.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Azerbaijan",
+    "capital": "Baku",
+    "flag": "/flags/AZE.png",
+    "fact": "Azerbaijan is known as the 'Land of Fire' due to its natural gas reserves.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Bahamas",
+    "capital": "Nassau",
+    "flag": "/flags/BHS.png",
+    "fact": "The Bahamas is renowned for its stunning beaches and clear blue waters.",
+    "continent": "North America"
+  },
+  {
+    "name": "Bahrain",
+    "capital": "Manama",
+    "flag": "/flags/BHR.png",
+    "fact": "Bahrain is known for its pearl fisheries and oil reserves.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "flag": "/flags/BGD.png",
+    "fact": "Bangladesh is famous for its rich cultural heritage and the Sundarbans mangrove forest.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Barbados",
+    "capital": "Bridgetown",
+    "flag": "/flags/BRB.png",
+    "fact": "Barbados is known for its tropical beaches and vibrant culture.",
+    "continent": "North America"
+  },
+  {
+    "name": "Belarus",
+    "capital": "Minsk",
+    "flag": "/flags/BLR.png",
+    "fact": "Belarus is known for its Stalinist architecture and grand fortifications.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Belgium",
+    "capital": "Brussels",
+    "flag": "/flags/BEL.png",
+    "fact": "Belgium is famous for its chocolate, waffles, and beer.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Belize",
+    "capital": "Belmopan",
+    "flag": "/flags/BLZ.png",
+    "fact": "Belize is known for its Belize Barrier Reef and diverse marine life.",
+    "continent": "North America"
+  },
+  {
+    "name": "Benin",
+    "capital": "Porto-Novo",
+    "flag": "/flags/BEN.png",
+    "fact": "Benin is considered the birthplace of the Vodun (Voodoo) religion.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Bhutan",
+    "capital": "Thimphu",
+    "flag": "/flags/BTN.png",
+    "fact": "Bhutan is known for its monasteries and fortresses (dzongs) in the Himalayas.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Bolivia",
+    "capital": "Sucre",
+    "flag": "/flags/BOL.png",
+    "fact": "Bolivia is home to the Salar de Uyuni, the world's largest salt flat.",
+    "continent": "South America"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "flag": "/flags/BIH.png",
+    "fact": "Bosnia and Herzegovina is known for its medieval villages and rivers.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Botswana",
+    "capital": "Gaborone",
+    "flag": "/flags/BWA.png",
+    "fact": "Botswana is famous for its wildlife and the Okavango Delta.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Brazil",
+    "capital": "Brasília",
+    "flag": "/flags/BRA.png",
+    "fact": "Brazil is the largest country in South America and famous for the Amazon rainforest.",
+    "continent": "South America"
+  },
+  {
+    "name": "Brunei",
+    "capital": "Bandar Seri Begawan",
+    "flag": "/flags/BRN.png",
+    "fact": "Brunei is known for its opulent mosques and oil wealth.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Bulgaria",
+    "capital": "Sofia",
+    "flag": "/flags/BGR.png",
+    "fact": "Bulgaria is known for its rose oil production and ancient cultural heritage.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "flag": "/flags/BFA.png",
+    "fact": "Burkina Faso is known for its music and film festivals.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Burundi",
+    "capital": "Gitega",
+    "flag": "/flags/BDI.png",
+    "fact": "Burundi is known for its drumming culture and coffee production.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Cabo Verde",
+    "capital": "Praia",
+    "flag": "/flags/CPV.png",
+    "fact": "Cabo Verde is known for its Creole Portuguese-African culture.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Cambodia",
+    "capital": "Phnom Penh",
+    "flag": "/flags/KHM.png",
+    "fact": "Cambodia is famous for the Angkor Wat temple complex.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Cameroon",
+    "capital": "Yaoundé",
+    "flag": "/flags/CMR.png",
+    "fact": "Cameroon is known for its geological and cultural diversity.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Canada",
+    "capital": "Ottawa",
+    "flag": "/flags/CAN.png",
+    "fact": "Canada is known for its vast landscapes and multicultural cities.",
+    "continent": "North America"
+  },
+  {
+    "name": "Central African Republic",
+    "capital": "Bangui",
+    "flag": "/flags/CAF.png",
+    "fact": "The Central African Republic is known for its rich wildlife and natural beauty.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Chad",
+    "capital": "N'Djamena",
+    "flag": "/flags/TCD.png",
+    "fact": "Chad is home to the Sahara Desert and Lake Chad.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Chile",
+    "capital": "Santiago",
+    "flag": "/flags/CHL.png",
+    "fact": "Chile is known for its long coastline and the Andes mountains.",
+    "continent": "South America"
+  },
+  {
+    "name": "China",
+    "capital": "Beijing",
+    "flag": "/flags/CHN.png",
+    "fact": "China is the most populous country in the world and has a rich cultural heritage.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "flag": "/flags/COL.png",
+    "fact": "Colombia is known for its coffee and diverse landscapes.",
+    "continent": "South America"
+  },
+  {
+    "name": "Comoros",
+    "capital": "Moroni",
+    "flag": "/flags/COM.png",
+    "fact": "Comoros is known for its volcanic islands and marine biodiversity.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Congo, Democratic Republic of the",
+    "capital": "Kinshasa",
+    "flag": "/flags/COD.png",
+    "fact": "The Democratic Republic of the Congo is known for its rainforests and the Congo River.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Congo, Republic of the",
+    "capital": "Brazzaville",
+    "flag": "/flags/COG.png",
+    "fact": "The Republic of the Congo is known for its rainforests and wildlife.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Costa Rica",
+    "capital": "San José",
+    "flag": "/flags/CRI.png",
+    "fact": "Costa Rica is famous for its biodiversity and eco-tourism.",
+    "continent": "North America"
+  },
+  {
+    "name": "Croatia",
+    "capital": "Zagreb",
+    "flag": "/flags/HRV.png",
+    "fact": "Croatia is known for its medieval architecture and Adriatic coastline.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Cuba",
+    "capital": "Havana",
+    "flag": "/flags/CUB.png",
+    "fact": "Cuba is famous for its cigars, music, and vintage cars.",
+    "continent": "North America"
+  },
+  {
+    "name": "Cyprus",
+    "capital": "Nicosia",
+    "flag": "/flags/CYP.png",
+    "fact": "Cyprus is known for its archaeological sites and Mediterranean beaches.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Czech Republic",
+    "capital": "Prague",
+    "flag": "/flags/CZE.png",
+    "fact": "The Czech Republic is known for its historic towns and castles.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Denmark",
+    "capital": "Copenhagen",
+    "flag": "/flags/DNK.png",
+    "fact": "Denmark is famous for its high quality of life and design.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Djibouti",
+    "capital": "Djibouti",
+    "flag": "/flags/DJI.png",
+    "fact": "Djibouti is known for its strategic location on the Horn of Africa.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Dominica",
+    "capital": "Roseau",
+    "flag": "/flags/DMA.png",
+    "fact": "Dominica is known for its natural hot springs and tropical rainforests.",
+    "continent": "North America"
+  },
+  {
+    "name": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "flag": "/flags/DOM.png",
+    "fact": "The Dominican Republic is known for its beaches, resorts, and golf courses.",
+    "continent": "North America"
+  },
+  {
+    "name": "East Timor",
+    "capital": "Dili",
+    "flag": "/flags/TLS.png",
+    "fact": "East Timor is known for its rich cultural heritage and beautiful beaches.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Ecuador",
+    "capital": "Quito",
+    "flag": "/flags/ECU.png",
+    "fact": "Ecuador is known for its diverse wildlife and the Galápagos Islands.",
+    "continent": "South America"
+  },
+  {
+    "name": "Egypt",
+    "capital": "Cairo",
+    "flag": "/flags/EGY.png",
+    "fact": "Egypt is famous for its ancient civilization and pyramids.",
+    "continent": "Africa"
+  },
+  {
+    "name": "El Salvador",
+    "capital": "San Salvador",
+    "flag": "/flags/SLV.png",
+    "fact": "El Salvador is known for its Pacific Ocean beaches and surf spots.",
+    "continent": "North America"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "capital": "Malabo",
+    "flag": "/flags/GNQ.png",
+    "fact": "Equatorial Guinea is known for its oil reserves and Spanish colonial architecture.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Eritrea",
+    "capital": "Asmara",
+    "flag": "/flags/ERI.png",
+    "fact": "Eritrea is known for its Italian colonial buildings and Red Sea coastline.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Estonia",
+    "capital": "Tallinn",
+    "flag": "/flags/EST.png",
+    "fact": "Estonia is known for its preserved medieval architecture and digital society.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Eswatini",
+    "capital": "Mbabane",
+    "flag": "/flags/SWZ.png",
+    "fact": "Eswatini is known for its wilderness reserves and festivals showcasing traditional Swazi culture.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Ethiopia",
+    "capital": "Addis Ababa",
+    "flag": "/flags/ETH.png",
+    "fact": "Ethiopia is known for being the birthplace of coffee and its ancient civilization.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Fiji",
+    "capital": "Suva",
+    "flag": "/flags/FJI.png",
+    "fact": "Fiji is famous for its coral reefs and clear lagoons.",
+    "continent": "Australia"
+  },
+  {
+    "name": "Finland",
+    "capital": "Helsinki",
+    "flag": "/flags/FIN.png",
+    "fact": "Finland is known for its high quality of life and stunning natural scenery.",
+    "continent": "Europe"
+  },
+  {
+    "name": "France",
+    "capital": "Paris",
+    "flag": "/flags/FRA.png",
+    "fact": "France is known for its wine, food, and the Eiffel Tower.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Gabon",
+    "capital": "Libreville",
+    "flag": "/flags/GAB.png",
+    "fact": "Gabon is known for its rainforests and wildlife.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Gambia",
+    "capital": "Banjul",
+    "flag": "/flags/GMB.png",
+    "fact": "The Gambia is known for its diverse ecosystems along the central Gambia River.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Georgia",
+    "capital": "Tbilisi",
+    "flag": "/flags/GEO.png",
+    "fact": "Georgia is known for its ancient winemaking tradition.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Germany",
+    "capital": "Berlin",
+    "flag": "/flags/DEU.png",
+    "fact": "Germany is famous for its beer, engineering, and cultural history.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Ghana",
+    "capital": "Accra",
+    "flag": "/flags/GHA.png",
+    "fact": "Ghana is known for its gold, cocoa, and rich cultural heritage.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Greece",
+    "capital": "Athens",
+    "flag": "/flags/GRC.png",
+    "fact": "Greece is known as the cradle of Western civilization and for its ancient ruins.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Grenada",
+    "capital": "St. George's",
+    "flag": "/flags/GRD.png",
+    "fact": "Grenada is known as the 'Spice Isle' due to its production of nutmeg and mace.",
+    "continent": "North America"
+  },
+  {
+    "name": "Guatemala",
+    "capital": "Guatemala City",
+    "flag": "/flags/GTM.png",
+    "fact": "Guatemala is known for its Mayan history and volcanic landscapes.",
+    "continent": "North America"
+  },
+  {
+    "name": "Guinea",
+    "capital": "Conakry",
+    "flag": "/flags/GIN.png",
+    "fact": "Guinea is known for its natural resources, including bauxite and iron ore.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "capital": "Bissau",
+    "flag": "/flags/GNB.png",
+    "fact": "Guinea-Bissau is known for its national parks and wildlife.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Guyana",
+    "capital": "Georgetown",
+    "flag": "/flags/GUY.png",
+    "fact": "Guyana is known for its dense rainforests and vast biodiversity.",
+    "continent": "South America"
+  },
+  {
+    "name": "Haiti",
+    "capital": "Port-au-Prince",
+    "flag": "/flags/HTI.png",
+    "fact": "Haiti is known for its vibrant culture and history of resilience.",
+    "continent": "North America"
+  },
+  {
+    "name": "Honduras",
+    "capital": "Tegucigalpa",
+    "flag": "/flags/HND.png",
+    "fact": "Honduras is known for its rich natural resources and ancient Maya ruins.",
+    "continent": "North America"
+  },
+  {
+    "name": "Hungary",
+    "capital": "Budapest",
+    "flag": "/flags/HUN.png",
+    "fact": "Hungary is known for its thermal spas and historic architecture.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Iceland",
+    "capital": "Reykjavik",
+    "flag": "/flags/ISL.png",
+    "fact": "Iceland is known for its dramatic landscapes with volcanoes, geysers, hot springs, and lava fields.",
+    "continent": "Europe"
+  },
+  {
+    "name": "India",
+    "capital": "New Delhi",
+    "flag": "/flags/IND.png",
+    "fact": "India is known for its diverse culture, languages, and heritage sites.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "flag": "/flags/IDN.png",
+    "fact": "Indonesia is famous for its islands, beaches, and volcanic activity.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Iran",
+    "capital": "Tehran",
+    "flag": "/flags/IRN.png",
+    "fact": "Iran is known for its Persian culture and historical sites.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Iraq",
+    "capital": "Baghdad",
+    "flag": "/flags/IRQ.png",
+    "fact": "Iraq is known for its rich history as part of ancient Mesopotamia.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Ireland",
+    "capital": "Dublin",
+    "flag": "/flags/IRL.png",
+    "fact": "Ireland is known for its lush landscapes, castles, and cultural heritage.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Israel",
+    "capital": "Jerusalem",
+    "flag": "/flags/ISR.png",
+    "fact": "Israel is known for its biblical history and diverse cultural heritage.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Italy",
+    "capital": "Rome",
+    "flag": "/flags/ITA.png",
+    "fact": "Italy is known for its art, architecture, and cuisine.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Jamaica",
+    "capital": "Kingston",
+    "flag": "/flags/JAM.png",
+    "fact": "Jamaica is famous for its reggae music and beautiful beaches.",
+    "continent": "North America"
+  },
+  {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "flag": "/flags/JPN.png",
+    "fact": "Japan is famous for its cherry blossoms and advanced technology.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Jordan",
+    "capital": "Amman",
+    "flag": "/flags/JOR.png",
+    "fact": "Jordan is known for the ancient city of Petra and its desert landscapes.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Kazakhstan",
+    "capital": "Nur-Sultan",
+    "flag": "/flags/KAZ.png",
+    "fact": "Kazakhstan is known for its vast steppes and nomadic culture.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "flag": "/flags/KEN.png",
+    "fact": "Kenya is famous for its safaris and diverse wildlife.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Kiribati",
+    "capital": "Tarawa",
+    "flag": "/flags/KIR.png",
+    "fact": "Kiribati is known for its marine life and beautiful atolls.",
+    "continent": "Australia"
+  },
+  {
+    "name": "Korea, North",
+    "capital": "Pyongyang",
+    "flag": "/flags/PRK.png",
+    "fact": "North Korea is known for its strict regime and isolation.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Korea, South",
+    "capital": "Seoul",
+    "flag": "/flags/KOR.png",
+    "fact": "South Korea is known for its technology, pop culture, and historical sites.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Kosovo",
+    "capital": "Pristina",
+    "flag": "/flags/XKX.png",
+    "fact": "Kosovo is known for its medieval architecture and vibrant culture.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Kuwait",
+    "capital": "Kuwait City",
+    "flag": "/flags/KWT.png",
+    "fact": "Kuwait is known for its oil reserves and modern architecture.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "flag": "/flags/KGZ.png",
+    "fact": "Kyrgyzstan is known for its mountainous terrain and nomadic traditions.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Laos",
+    "capital": "Vientiane",
+    "flag": "/flags/LAO.png",
+    "fact": "Laos is known for its mountainous landscape and Buddhist monasteries.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Latvia",
+    "capital": "Riga",
+    "flag": "/flags/LVA.png",
+    "fact": "Latvia is known for its wooden architecture and beautiful coastline.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Lebanon",
+    "capital": "Beirut",
+    "flag": "/flags/LBN.png",
+    "fact": "Lebanon is known for its ancient history and vibrant culture.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Lesotho",
+    "capital": "Maseru",
+    "flag": "/flags/LSO.png",
+    "fact": "Lesotho is known for its mountainous terrain and traditional Basotho culture.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Liberia",
+    "capital": "Monrovia",
+    "flag": "/flags/LBR.png",
+    "fact": "Liberia is known for its history as a settlement for freed African American slaves.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Libya",
+    "capital": "Tripoli",
+    "flag": "/flags/LBY.png",
+    "fact": "Libya is known for its desert landscapes and ancient Greek and Roman ruins.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Liechtenstein",
+    "capital": "Vaduz",
+    "flag": "/flags/LIE.png",
+    "fact": "Liechtenstein is known for its medieval castles and alpine landscapes.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Lithuania",
+    "capital": "Vilnius",
+    "flag": "/flags/LTU.png",
+    "fact": "Lithuania is known for its historic architecture and forests.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Luxembourg",
+    "capital": "Luxembourg City",
+    "flag": "/flags/LUX.png",
+    "fact": "Luxembourg is known for its wealth and medieval old town.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Madagascar",
+    "capital": "Antananarivo",
+    "flag": "/flags/MDG.png",
+    "fact": "Madagascar is famous for its unique wildlife and biodiversity.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Malawi",
+    "capital": "Lilongwe",
+    "flag": "/flags/MWI.png",
+    "fact": "Malawi is known for its lake, Lake Malawi, and its diverse ecosystems.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "flag": "/flags/MYS.png",
+    "fact": "Malaysia is known for its beaches, rainforests, and mix of Malay, Chinese, Indian, and European cultural influences.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Maldives",
+    "capital": "Malé",
+    "flag": "/flags/MDV.png",
+    "fact": "The Maldives is famous for its white sandy beaches and luxury resorts.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Mali",
+    "capital": "Bamako",
+    "flag": "/flags/MLI.png",
+    "fact": "Mali is known for its rich history and the ancient city of Timbuktu.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Malta",
+    "capital": "Valletta",
+    "flag": "/flags/MLT.png",
+    "fact": "Malta is known for its historic sites related to a succession of rulers including the Romans, Moors, Knights of Saint John, French, and British.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Marshall Islands",
+    "capital": "Majuro",
+    "flag": "/flags/MHL.png",
+    "fact": "The Marshall Islands are known for their atolls and marine life.",
+    "continent": "Australia"
+  },
+  {
+    "name": "Mauritania",
+    "capital": "Nouakchott",
+    "flag": "/flags/MRT.png",
+    "fact": "Mauritania is known for its vast deserts and nomadic culture.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Mauritius",
+    "capital": "Port Louis",
+    "flag": "/flags/MUS.png",
+    "fact": "Mauritius is known for its beaches, lagoons, and reefs.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "flag": "/flags/MEX.png",
+    "fact": "Mexico is known for its rich cultural heritage, cuisine, and ancient ruins.",
+    "continent": "North America"
+  },
+  {
+    "name": "Micronesia",
+    "capital": "Palikir",
+    "flag": "/flags/FSM.png",
+    "fact": "Micronesia is known for its palm-shaded beaches, wreck-filled dives, and ancient ruins.",
+    "continent": "Australia"
+  },
+  {
+    "name": "Moldova",
+    "capital": "Chișinău",
+    "flag": "/flags/MDA.png",
+    "fact": "Moldova is known for its vineyards and wine production.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Monaco",
+    "capital": "Monaco",
+    "flag": "/flags/MCO.png",
+    "fact": "Monaco is known for its wealth, casinos, and Grand Prix.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Mongolia",
+    "capital": "Ulaanbaatar",
+    "flag": "/flags/MNG.png",
+    "fact": "Mongolia is known for its vast steppes and nomadic culture.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Montenegro",
+    "capital": "Podgorica",
+    "flag": "/flags/MNE.png",
+    "fact": "Montenegro is known for its rugged mountains and medieval villages.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Morocco",
+    "capital": "Rabat",
+    "flag": "/flags/MAR.png",
+    "fact": "Morocco is known for its historic cities, desert landscapes, and vibrant culture.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Mozambique",
+    "capital": "Maputo",
+    "flag": "/flags/MOZ.png",
+    "fact": "Mozambique is known for its Indian Ocean coastline and marine parks.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Myanmar",
+    "capital": "Naypyidaw",
+    "flag": "/flags/MMR.png",
+    "fact": "Myanmar is known for its golden pagodas and rich cultural heritage.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Namibia",
+    "capital": "Windhoek",
+    "flag": "/flags/NAM.png",
+    "fact": "Namibia is known for its desert landscapes and wildlife.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Nauru",
+    "capital": "Yaren",
+    "flag": "/flags/NRU.png",
+    "fact": "Nauru is known for its phosphate mining.",
+    "continent": "Australia"
+  },
+  {
+    "name": "Nepal",
+    "capital": "Kathmandu",
+    "flag": "/flags/NPL.png",
+    "fact": "Nepal is known for the Himalayas and Mount Everest.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Netherlands",
+    "capital": "Amsterdam",
+    "flag": "/flags/NLD.png",
+    "fact": "The Netherlands is known for its windmills, tulips, and canals.",
+    "continent": "Europe"
+  },
+  {
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "flag": "/flags/NZL.png",
+    "fact": "New Zealand is known for its indigenous Māori culture and stunning landscapes.",
+    "continent": "Australia"
+  },
+  {
+    "name": "Nicaragua",
+    "capital": "Managua",
+    "flag": "/flags/NIC.png",
+    "fact": "Nicaragua is known for its lakes, volcanoes, and beaches.",
+    "continent": "North America"
+  },
+  {
+    "name": "Niger",
+    "capital": "Niamey",
+    "flag": "/flags/NER.png",
+    "fact": "Niger is known for its desert landscapes and wildlife.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "flag": "/flags/NGA.png",
+    "fact": "Nigeria is known for its diverse culture and Nollywood film industry.",
+    "continent": "Africa"
+  },
+  {
+    "name": "North Macedonia",
+    "capital": "Skopje",
+    "flag": "/flags/MKD.png",
+    "fact": "North Macedonia is known for its rich history and natural beauty.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Norway",
+    "capital": "Oslo",
+    "flag": "/flags/NOR.png",
+    "fact": "Norway is known for its fjords, midnight sun, and northern lights.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Oman",
+    "capital": "Muscat",
+    "flag": "/flags/OMN.png",
+    "fact": "Oman is known for its historic forts and Arabian architecture.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Pakistan",
+    "capital": "Islamabad",
+    "flag": "/flags/PAK.png",
+    "fact": "Pakistan is known for its diverse cultures and landscapes, including the Himalayas.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Palau",
+    "capital": "Ngerulmud",
+    "flag": "/flags/PLW.png",
+    "fact": "Palau is known for its marine life and scuba diving sites.",
+    "continent": "Australia"
+  },
+  {
+    "name": "Palestine",
+    "capital": "Ramallah",
+    "flag": "/flags/PSE.png",
+    "fact": "Palestine is known for its historical significance and cultural heritage.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Panama",
+    "capital": "Panama City",
+    "flag": "/flags/PAN.png",
+    "fact": "Panama is known for the Panama Canal and its biodiversity.",
+    "continent": "North America"
+  },
+  {
+    "name": "Papua New Guinea",
+    "capital": "Port Moresby",
+    "flag": "/flags/PNG.png",
+    "fact": "Papua New Guinea is known for its cultural diversity and rainforests.",
+    "continent": "Australia"
+  },
+  {
+    "name": "Paraguay",
+    "capital": "Asunción",
+    "flag": "/flags/PRY.png",
+    "fact": "Paraguay is known for its rich Guarani culture and natural beauty.",
+    "continent": "South America"
+  },
+  {
+    "name": "Peru",
+    "capital": "Lima",
+    "flag": "/flags/PER.png",
+    "fact": "Peru is known for its archaeological sites, including Machu Picchu.",
+    "continent": "South America"
+  },
+  {
+    "name": "Philippines",
+    "capital": "Manila",
+    "flag": "/flags/PHL.png",
+    "fact": "The Philippines is known for its beaches, biodiversity, and cultural heritage.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Poland",
+    "capital": "Warsaw",
+    "flag": "/flags/POL.png",
+    "fact": "Poland is known for its medieval architecture and rich history.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Portugal",
+    "capital": "Lisbon",
+    "flag": "/flags/PRT.png",
+    "fact": "Portugal is known for its rich maritime history and beautiful coastlines.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Qatar",
+    "capital": "Doha",
+    "flag": "/flags/QAT.png",
+    "fact": "Qatar is known for its wealth from oil and gas industries.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Romania",
+    "capital": "Bucharest",
+    "flag": "/flags/ROU.png",
+    "fact": "Romania is known for its forested region of Transylvania, associated with the Dracula legend.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Russia",
+    "capital": "Moscow",
+    "flag": "/flags/RUS.png",
+    "fact": "Russia is known for its vast landscapes and rich cultural heritage.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Rwanda",
+    "capital": "Kigali",
+    "flag": "/flags/RWA.png",
+    "fact": "Rwanda is known for its mountain gorillas and national parks.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "flag": "/flags/KNA.png",
+    "fact": "Saint Kitts and Nevis is known for its beaches and scenic railway.",
+    "continent": "North America"
+  },
+  {
+    "name": "Saint Lucia",
+    "capital": "Castries",
+    "flag": "/flags/LCA.png",
+    "fact": "Saint Lucia is known for its twin peaks, the Pitons, and luxury resorts.",
+    "continent": "North America"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "flag": "/flags/VCT.png",
+    "fact": "Saint Vincent and the Grenadines is known for its sailing and island-hopping opportunities.",
+    "continent": "North America"
+  },
+  {
+    "name": "Samoa",
+    "capital": "Apia",
+    "flag": "/flags/WSM.png",
+    "fact": "Samoa is known for its natural beauty and traditional Samoan culture.",
+    "continent": "Australia"
+  },
+  {
+    "name": "San Marino",
+    "capital": "San Marino",
+    "flag": "/flags/SMR.png",
+    "fact": "San Marino is one of the world's oldest republics, known for its historic architecture.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "capital": "São Tomé",
+    "flag": "/flags/STP.png",
+    "fact": "Sao Tome and Principe is known for its biodiversity and cocoa production.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "flag": "/flags/SAU.png",
+    "fact": "Saudi Arabia is known for its vast deserts and oil wealth.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Senegal",
+    "capital": "Dakar",
+    "flag": "/flags/SEN.png",
+    "fact": "Senegal is known for its vibrant music and rich cultural heritage.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Serbia",
+    "capital": "Belgrade",
+    "flag": "/flags/SRB.png",
+    "fact": "Serbia is known for its historical sites and vibrant culture.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Seychelles",
+    "capital": "Victoria",
+    "flag": "/flags/SYC.png",
+    "fact": "Seychelles is known for its beautiful beaches, coral reefs, and nature reserves.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Sierra Leone",
+    "capital": "Freetown",
+    "flag": "/flags/SLE.png",
+    "fact": "Sierra Leone is known for its beautiful beaches and rich history.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Singapore",
+    "capital": "Singapore",
+    "flag": "/flags/SGP.png",
+    "fact": "Singapore is known for its modern skyline and vibrant food scene.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Slovakia",
+    "capital": "Bratislava",
+    "flag": "/flags/SVK.png",
+    "fact": "Slovakia is known for its castles and mountainous landscapes.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Slovenia",
+    "capital": "Ljubljana",
+    "flag": "/flags/SVN.png",
+    "fact": "Slovenia is known for its lakes, caves, and picturesque towns.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Solomon Islands",
+    "capital": "Honiara",
+    "flag": "/flags/SLB.png",
+    "fact": "The Solomon Islands are known for their WWII history and marine biodiversity.",
+    "continent": "Australia"
+  },
+  {
+    "name": "Somalia",
+    "capital": "Mogadishu",
+    "flag": "/flags/SOM.png",
+    "fact": "Somalia is known for its rich culture and history.",
+    "continent": "Africa"
+  },
+  {
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "flag": "/flags/ZAF.png",
+    "fact": "South Africa is known for its diverse cultures and natural beauty.",
+    "continent": "Africa"
+  },
+  {
+    "name": "South Sudan",
+    "capital": "Juba",
+    "flag": "/flags/SSD.png",
+    "fact": "South Sudan is known for its diverse ethnic groups and wildlife.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Spain",
+    "capital": "Madrid",
+    "flag": "/flags/ESP.png",
+    "fact": "Spain is known for its rich history, art, and cuisine.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Sri Lanka",
+    "capital": "Colombo",
+    "flag": "/flags/LKA.png",
+    "fact": "Sri Lanka is known for its ancient ruins, tea plantations, and diverse landscapes.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Sudan",
+    "capital": "Khartoum",
+    "flag": "/flags/SDN.png",
+    "fact": "Sudan is known for its pyramids and archaeological sites.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Suriname",
+    "capital": "Paramaribo",
+    "flag": "/flags/SUR.png",
+    "fact": "Suriname is known for its rainforests and Dutch colonial architecture.",
+    "continent": "South America"
+  },
+  {
+    "name": "Sweden",
+    "capital": "Stockholm",
+    "flag": "/flags/SWE.png",
+    "fact": "Sweden is known for its innovation, design, and beautiful landscapes.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Switzerland",
+    "capital": "Bern",
+    "flag": "/flags/CHE.png",
+    "fact": "Switzerland is known for its mountains, chocolates, and banking industry.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Syria",
+    "capital": "Damascus",
+    "flag": "/flags/SYR.png",
+    "fact": "Syria is known for its ancient history and cultural heritage.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Taiwan",
+    "capital": "Taipei",
+    "flag": "/flags/TWN.png",
+    "fact": "Taiwan is known for its night markets and technological advancements.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Tajikistan",
+    "capital": "Dushanbe",
+    "flag": "/flags/TJK.png",
+    "fact": "Tajikistan is known for its rugged mountains and ancient Silk Road history.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Tanzania",
+    "capital": "Dodoma",
+    "flag": "/flags/TZA.png",
+    "fact": "Tanzania is known for its wildlife safaris and Mount Kilimanjaro.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "flag": "/flags/THA.png",
+    "fact": "Thailand is known for its tropical beaches, opulent royal palaces, and ancient ruins.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Timor-Leste",
+    "capital": "Dili",
+    "flag": "/flags/TLS.png",
+    "fact": "Timor-Leste is known for its rich cultural heritage and beautiful landscapes.",
+    "continent": "Australia"
+  },
+  {
+    "name": "Togo",
+    "capital": "Lomé",
+    "flag": "/flags/TGO.png",
+    "fact": "Togo is known for its palm-lined beaches and hilltop villages.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Tonga",
+    "capital": "Nukuʻalofa",
+    "flag": "/flags/TON.png",
+    "fact": "Tonga is known for its Polynesian culture and friendly people.",
+    "continent": "Australia"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "flag": "/flags/TTO.png",
+    "fact": "Trinidad and Tobago is known for its Carnival and diverse culture.",
+    "continent": "North America"
+  },
+  {
+    "name": "Tunisia",
+    "capital": "Tunis",
+    "flag": "/flags/TUN.png",
+    "fact": "Tunisia is known for its Mediterranean coastline and ancient ruins.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Turkey",
+    "capital": "Ankara",
+    "flag": "/flags/TUR.png",
+    "fact": "Turkey is known for its rich history and cultural heritage.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Turkmenistan",
+    "capital": "Ashgabat",
+    "flag": "/flags/TKM.png",
+    "fact": "Turkmenistan is known for its ancient history and the Karakum Desert.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Tuvalu",
+    "capital": "Funafuti",
+    "flag": "/flags/TUV.png",
+    "fact": "Tuvalu is known for its low-lying atolls and marine life.",
+    "continent": "Australia"
+  },
+  {
+    "name": "Uganda",
+    "capital": "Kampala",
+    "flag": "/flags/UGA.png",
+    "fact": "Uganda is known for its mountain gorillas and diverse wildlife.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Ukraine",
+    "capital": "Kyiv",
+    "flag": "/flags/UKR.png",
+    "fact": "Ukraine is known for its rich culture and history.",
+    "continent": "Europe"
+  },
+  {
+    "name": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "flag": "/flags/ARE.png",
+    "fact": "The UAE is known for its modern architecture and luxurious lifestyle.",
+    "continent": "Asia"
+  },
+  {
+    "name": "United Kingdom",
+    "capital": "London",
+    "flag": "/flags/GBR.png",
+    "fact": "The UK is known for its rich history, cultural influence, and iconic landmarks.",
+    "continent": "Europe"
+  },
+  {
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "flag": "/flags/USA.png",
+    "fact": "The USA is known for its cultural diversity and economic influence.",
+    "continent": "North America"
+  },
+  {
+    "name": "Uruguay",
+    "capital": "Montevideo",
+    "flag": "/flags/URY.png",
+    "fact": "Uruguay is known for its beach-lined coast and vibrant culture.",
+    "continent": "South America"
+  },
+  {
+    "name": "Uzbekistan",
+    "capital": "Tashkent",
+    "flag": "/flags/UZB.png",
+    "fact": "Uzbekistan is known for its Silk Road history and architectural landmarks.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Vanuatu",
+    "capital": "Port Vila",
+    "flag": "/flags/VUT.png",
+    "fact": "Vanuatu is known for its volcanic landscapes and coral reefs.",
+    "continent": "Australia"
+  },
+  {
+    "name": "Vatican City",
+    "capital": "Vatican City",
+    "flag": "/flags/VAT.png",
+    "fact": "Vatican City is known for being the smallest independent state in the world.",
+    "continent": "Europe"
+  },
+  {
+    "name": "Venezuela",
+    "capital": "Caracas",
+    "flag": "/flags/VEN.png",
+    "fact": "Venezuela is known for its diverse landscapes and oil resources.",
+    "continent": "South America"
+  },
+  {
+    "name": "Vietnam",
+    "capital": "Hanoi",
+    "flag": "/flags/VNM.png",
+    "fact": "Vietnam is known for its rich cultural heritage and beautiful landscapes.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Yemen",
+    "capital": "Sana'a",
+    "flag": "/flags/YEM.png",
+    "fact": "Yemen is known for its historic cities and unique architecture.",
+    "continent": "Asia"
+  },
+  {
+    "name": "Zambia",
+    "capital": "Lusaka",
+    "flag": "/flags/ZMB.png",
+    "fact": "Zambia is known for its national parks and Victoria Falls.",
+    "continent": "Africa"
+  },
+  {
+    "name": "Zimbabwe",
+    "capital": "Harare",
+    "flag": "/flags/ZWE.png",
+    "fact": "Zimbabwe is known for its wildlife and Victoria Falls.",
+    "continent": "Africa"
+  }
+]
+
