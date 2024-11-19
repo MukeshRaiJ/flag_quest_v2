@@ -6,7 +6,15 @@
     "fact": "Afghanistan is known for its mountainous terrain and rich history.",
     "continent": "Asia",
     "currency": "Afghan afghani",
-    "subregion": "South Asia",
+    "totalArea": 652230,
+    "gdpPerCapita": 509,
+    "iconicPlaces": [
+      "Bamiyan Valley",
+      "Band-e Amir National Park",
+      "Minaret of Jam",
+      "Gardens of Babur",
+      "Darul Aman Palace"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Afghanistan"
   },
   {
@@ -16,7 +24,15 @@
     "fact": "Albania is famous for its castles and archaeological sites.",
     "continent": "Europe",
     "currency": "Albanian lek",
-    "subregion": "Balkans",
+    "totalArea": 28748,
+    "gdpPerCapita": 5215,
+    "iconicPlaces": [
+      "Butrint National Park",
+      "Berat Castle",
+      "Albanian Riviera",
+      "Kruje Castle",
+      "Gjirokastër"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Albania"
   },
   {
@@ -26,7 +42,15 @@
     "fact": "Algeria is the largest country in Africa.",
     "continent": "Africa",
     "currency": "Algerian dinar",
-    "subregion": "North Africa",
+    "totalArea": 2381741,
+    "gdpPerCapita": 3765,
+    "iconicPlaces": [
+      "Tassili n'Ajjer",
+      "Casbah of Algiers",
+      "Timgad",
+      "Djémila",
+      "Hoggar Mountains"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Algeria"
   },
   {
@@ -36,7 +60,15 @@
     "fact": "Andorra is known for its ski resorts and a tax-haven status.",
     "continent": "Europe",
     "currency": "Euro",
-    "subregion": "Southern Europe",
+    "totalArea": 468,
+    "gdpPerCapita": 40887,
+    "iconicPlaces": [
+      "Vallnord",
+      "Caldea Thermal Spa",
+      "Casa de la Vall",
+      "Madriu-Perafita-Claror Valley",
+      "Grandvalira"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Andorra"
   },
   {
@@ -46,7 +78,15 @@
     "fact": "Angola has a diverse range of landscapes and wildlife.",
     "continent": "Africa",
     "currency": "Angolan kwanza",
-    "subregion": "Middle Africa",
+    "totalArea": 1246700,
+    "gdpPerCapita": 2791,
+    "iconicPlaces": [
+      "Kalandula Falls",
+      "Quiçama National Park",
+      "Fortaleza de São Miguel",
+      "Tundavala",
+      "Miradouro da Lua"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Angola"
   },
   {
@@ -56,7 +96,15 @@
     "fact": "Argentina is famous for tango dance and music.",
     "continent": "South America",
     "currency": "Argentine peso",
-    "subregion": "South America",
+    "totalArea": 2780400,
+    "gdpPerCapita": 10041,
+    "iconicPlaces": [
+      "Iguazu Falls",
+      "Perito Moreno Glacier",
+      "Tierra del Fuego",
+      "La Boca, Buenos Aires",
+      "Quebrada de Humahuaca"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Argentina"
   },
   {
@@ -66,7 +114,15 @@
     "fact": "Armenia is one of the oldest wine-producing countries in the world.",
     "continent": "Asia",
     "currency": "Armenian dram",
-    "subregion": "Western Asia",
+    "totalArea": 29743,
+    "gdpPerCapita": 4268,
+    "iconicPlaces": [
+      "Tatev Monastery",
+      "Lake Sevan",
+      "Geghard Monastery",
+      "Mount Ararat (viewed from Armenia)",
+      "Khor Virap"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Armenia"
   },
   {
@@ -76,7 +132,15 @@
     "fact": "Australia is home to the Great Barrier Reef.",
     "continent": "Australia",
     "currency": "Australian dollar",
-    "subregion": "Oceania",
+    "totalArea": 7692024,
+    "gdpPerCapita": 55060,
+    "iconicPlaces": [
+      "Great Barrier Reef",
+      "Sydney Opera House",
+      "Uluru (Ayers Rock)",
+      "Great Ocean Road",
+      "Bondi Beach"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Australia"
   },
   {
@@ -86,7 +150,15 @@
     "fact": "Austria is famous for its classical music and alpine skiing.",
     "continent": "Europe",
     "currency": "Euro",
-    "subregion": "Western Europe",
+    "totalArea": 83871,
+    "gdpPerCapita": 48586,
+    "iconicPlaces": [
+      "Schönbrunn Palace",
+      "Hallstatt",
+      "Belvedere, Vienna",
+      "Salzburg Old Town",
+      "Grossglockner High Alpine Road"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Austria"
   },
   {
@@ -96,7 +168,15 @@
     "fact": "Azerbaijan is known as the 'Land of Fire' due to its natural gas reserves.",
     "continent": "Asia",
     "currency": "Azerbaijani manat",
-    "subregion": "Western Asia",
+    "totalArea": 86600,
+    "gdpPerCapita": 4214,
+    "iconicPlaces": [
+      "Flame Towers",
+      "Old City (Icherisheher)",
+      "Gobustan Rock Art Cultural Landscape",
+      "Yanar Dag",
+      "Heydar Aliyev Center"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Azerbaijan"
   },
   {
@@ -106,7 +186,15 @@
     "fact": "The Bahamas is renowned for its stunning beaches and clear blue waters.",
     "continent": "North America",
     "currency": "Bahamian dollar",
-    "subregion": "Caribbean",
+    "totalArea": 13880,
+    "gdpPerCapita": 25194,
+    "iconicPlaces": [
+      "Atlantis Paradise Island",
+      "Exuma Cays Land and Sea Park",
+      "Pink Sands Beach",
+      "Dean's Blue Hole",
+      "Nassau Straw Market"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/The_Bahamas"
   },
   {
@@ -116,7 +204,15 @@
     "fact": "Bahrain is known for its pearl fisheries and oil reserves.",
     "continent": "Asia",
     "currency": "Bahraini dinar",
-    "subregion": "Middle East",
+    "totalArea": 765,
+    "gdpPerCapita": 23504,
+    "iconicPlaces": [
+      "Bahrain National Museum",
+      "Al Fateh Grand Mosque",
+      "Bahrain Fort",
+      "Tree of Life",
+      "Bahrain World Trade Center"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Bahrain"
   },
   {
@@ -126,7 +222,15 @@
     "fact": "Bangladesh is famous for its rich cultural heritage and the Sundarbans mangrove forest.",
     "continent": "Asia",
     "currency": "Bangladeshi taka",
-    "subregion": "South Asia",
+    "totalArea": 147570,
+    "gdpPerCapita": 1969,
+    "iconicPlaces": [
+      "Sundarbans",
+      "Cox's Bazar",
+      "Srimangal",
+      "Somapura Mahavihara",
+      "Lalbagh Fort"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Bangladesh"
   },
   {
@@ -136,7 +240,15 @@
     "fact": "Barbados is known for its tropical beaches and vibrant culture.",
     "continent": "North America",
     "currency": "Barbadian dollar",
-    "subregion": "Caribbean",
+    "totalArea": 430,
+    "gdpPerCapita": 15374,
+    "iconicPlaces": [
+      "Crane Beach",
+      "Harrison's Cave",
+      "St. Nicholas Abbey",
+      "Andromeda Botanic Gardens",
+      "Carlisle Bay"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Barbados"
   },
   {
@@ -146,7 +258,15 @@
     "fact": "Belarus is known for its Stalinist architecture and grand fortifications.",
     "continent": "Europe",
     "currency": "Belarusian ruble",
-    "subregion": "Eastern Europe",
+    "totalArea": 207600,
+    "gdpPerCapita": 6411,
+    "iconicPlaces": [
+      "Mir Castle",
+      "Belovezhskaya Pushcha National Park",
+      "Brest Fortress",
+      "Minsk Old Town",
+      "Dudutki Museum Complex"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Belarus"
   },
   {
@@ -156,7 +276,15 @@
     "fact": "Belgium is famous for its chocolate, waffles, and beer.",
     "continent": "Europe",
     "currency": "Euro",
-    "subregion": "Western Europe",
+    "totalArea": 30528,
+    "gdpPerCapita": 45159,
+    "iconicPlaces": [
+      "Grand Place, Brussels",
+      "Atomium",
+      "Bruges Historic Centre",
+      "Ghent's Old Town",
+      "Manneken Pis"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Belgium"
   },
   {
@@ -166,7 +294,15 @@
     "fact": "Belize is known for its Belize Barrier Reef and diverse marine life.",
     "continent": "North America",
     "currency": "Belize dollar",
-    "subregion": "Central America",
+    "totalArea": 22970,
+    "gdpPerCapita": 4436,
+    "iconicPlaces": [
+      "Great Blue Hole",
+      "Xunantunich",
+      "Hol Chan Marine Reserve",
+      "Lamanai",
+      "Placencia"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Belize"
   },
   {
@@ -176,7 +312,15 @@
     "fact": "Benin is considered the birthplace of the Vodun (Voodoo) religion.",
     "continent": "Africa",
     "currency": "West African CFA franc",
-    "subregion": "West Africa",
+    "totalArea": 112622,
+    "gdpPerCapita": 1291,
+    "iconicPlaces": [
+      "Royal Palaces of Abomey",
+      "Pendjari National Park",
+      "Ganvie",
+      "Ouidah",
+      "Grand Popo Beach"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Benin"
   },
   {
@@ -186,7 +330,15 @@
     "fact": "Bhutan is known for its monasteries and fortresses (dzongs) in the Himalayas.",
     "continent": "Asia",
     "currency": "Bhutanese ngultrum",
-    "subregion": "South Asia",
+    "totalArea": 38394,
+    "gdpPerCapita": 3122,
+    "iconicPlaces": [
+      "Tiger's Nest Monastery",
+      "Punakha Dzong",
+      "Paro Taktsang",
+      "Dochula Pass",
+      "Tashichho Dzong"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Bhutan"
   },
   {
@@ -196,7 +348,15 @@
     "fact": "Bolivia is home to the Salar de Uyuni, the world's largest salt flat.",
     "continent": "South America",
     "currency": "Bolivian boliviano",
-    "subregion": "South America",
+    "totalArea": 1098581,
+    "gdpPerCapita": 3143,
+    "iconicPlaces": [
+      "Salar de Uyuni",
+      "Lake Titicaca",
+      "Tiwanaku",
+      "Madidi National Park",
+      "Valle de la Luna"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Bolivia"
   },
   {
@@ -206,7 +366,15 @@
     "fact": "Bosnia and Herzegovina is known for its medieval villages and rivers.",
     "continent": "Europe",
     "currency": "Bosnia and Herzegovina convertible mark",
-    "subregion": "Balkans",
+    "totalArea": 51197,
+    "gdpPerCapita": 6031,
+    "iconicPlaces": [
+      "Stari Most (Old Bridge)",
+      "Baščaršija",
+      "Kravice Waterfall",
+      "Sutjeska National Park",
+      "Mehmed Paša Sokolović Bridge"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina"
   },
   {
@@ -216,7 +384,15 @@
     "fact": "Botswana is famous for its wildlife and the Okavango Delta.",
     "continent": "Africa",
     "currency": "Botswana pula",
-    "subregion": "Southern Africa",
+    "totalArea": 581730,
+    "gdpPerCapita": 6711,
+    "iconicPlaces": [
+      "Okavango Delta",
+      "Chobe National Park",
+      "Kalahari Desert",
+      "Tsodilo Hills",
+      "Makgadikgadi Pans"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Botswana"
   },
   {
@@ -226,7 +402,15 @@
     "fact": "Brazil is the largest country in South America and famous for the Amazon rainforest.",
     "continent": "South America",
     "currency": "Brazilian real",
-    "subregion": "South America",
+    "totalArea": 8515767,
+    "gdpPerCapita": 6796,
+    "iconicPlaces": [
+      "Christ the Redeemer",
+      "Amazon Rainforest",
+      "Iguazu Falls",
+      "Copacabana Beach",
+      "Sugarloaf Mountain"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Brazil"
   },
   {
@@ -236,7 +420,15 @@
     "fact": "Brunei is known for its opulent mosques and oil wealth.",
     "continent": "Asia",
     "currency": "Brunei dollar",
-    "subregion": "Southeast Asia",
+    "totalArea": 5765,
+    "gdpPerCapita": 27443,
+    "iconicPlaces": [
+      "Sultan Omar Ali Saifuddien Mosque",
+      "Istana Nurul Iman",
+      "Ulu Temburong National Park",
+      "Kampong Ayer",
+      "Royal Regalia Museum"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Brunei"
   },
   {
@@ -246,7 +438,15 @@
     "fact": "Bulgaria is known for its rose oil production and ancient cultural heritage.",
     "continent": "Europe",
     "currency": "Bulgarian lev",
-    "subregion": "Balkans",
+    "totalArea": 110879,
+    "gdpPerCapita": 10079,
+    "iconicPlaces": [
+      "Rila Monastery",
+      "Sunny Beach",
+      "Alexander Nevsky Cathedral",
+      "Plovdiv Old Town",
+      "Seven Rila Lakes"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Bulgaria"
   },
   {
@@ -256,7 +456,15 @@
     "fact": "Burkina Faso is known for its music and film festivals.",
     "continent": "Africa",
     "currency": "West African CFA franc",
-    "subregion": "West Africa",
+    "totalArea": 274200,
+    "gdpPerCapita": 775,
+    "iconicPlaces": [
+      "Sindou Peaks",
+      "Tiébélé Painted Houses",
+      "Bobo-Dioulasso Grand Mosque",
+      "Loropéni Ruins",
+      "Nazinga Game Reserve"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Burkina_Faso"
   },
   {
@@ -266,7 +474,15 @@
     "fact": "Burundi is known for its drumming culture and coffee production.",
     "continent": "Africa",
     "currency": "Burundian franc",
-    "subregion": "Eastern Africa",
+    "totalArea": 27830,
+    "gdpPerCapita": 239,
+    "iconicPlaces": [
+      "Rusizi National Park",
+      "Lake Tanganyika",
+      "Kibira National Park",
+      "Livingstone-Stanley Monument",
+      "Gishora Drum Sanctuary"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Burundi"
   },
   {
@@ -276,7 +492,15 @@
     "fact": "Cambodia is famous for the Angkor Wat temple complex.",
     "continent": "Asia",
     "currency": "Cambodian riel",
-    "subregion": "Southeast Asia",
+    "totalArea": 181035,
+    "gdpPerCapita": 1513,
+    "iconicPlaces": [
+      "Angkor Wat",
+      "Royal Palace, Phnom Penh",
+      "Tonlé Sap",
+      "Sihanoukville Beaches",
+      "Tuol Sleng Genocide Museum"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Cambodia"
   },
   {
@@ -286,7 +510,15 @@
     "fact": "Cameroon is known for its geological and cultural diversity.",
     "continent": "Africa",
     "currency": "Central African CFA franc",
-    "subregion": "Middle Africa",
+    "totalArea": 475442,
+    "gdpPerCapita": 1499,
+    "iconicPlaces": [
+      "Mount Cameroon",
+      "Waza National Park",
+      "Lobé Waterfalls",
+      "Kribi Beach",
+      "Baka Pygmy Village"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Cameroon"
   },
   {
@@ -296,7 +528,15 @@
     "fact": "Canada is known for its vast landscapes and multicultural cities.",
     "continent": "North America",
     "currency": "Canadian dollar",
-    "subregion": "North America",
+    "totalArea": 9984670,
+    "gdpPerCapita": 43258,
+    "iconicPlaces": [
+      "Niagara Falls",
+      "Banff National Park",
+      "CN Tower",
+      "Old Quebec",
+      "Northern Lights in Yukon"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Canada"
   },
   {
@@ -306,7 +546,15 @@
     "fact": "The Central African Republic is known for its rich wildlife and natural beauty.",
     "continent": "Africa",
     "currency": "Central African CFA franc",
-    "subregion": "Middle Africa",
+    "totalArea": 622984,
+    "gdpPerCapita": 461,
+    "iconicPlaces": [
+      "Dzanga-Sangha Special Reserve",
+      "Boali Falls",
+      "Bangui Notre-Dame Cathedral",
+      "Manovo-Gounda St. Floris National Park",
+      "Les Chutes de la Mbi"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Central_African_Republic"
   },
   {
@@ -316,7 +564,15 @@
     "fact": "Chad is home to the Sahara Desert and Lake Chad.",
     "continent": "Africa",
     "currency": "Central African CFA franc",
-    "subregion": "Middle Africa",
+    "totalArea": 1284000,
+    "gdpPerCapita": 659,
+    "iconicPlaces": [
+      "Ennedi Plateau",
+      "Zakouma National Park",
+      "Lakes of Ounianga",
+      "Tibesti Mountains",
+      "Gaoui Village"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Chad"
   },
   {
@@ -326,7 +582,15 @@
     "fact": "Chile is known for its long coastline and the Andes mountains.",
     "continent": "South America",
     "currency": "Chilean peso",
-    "subregion": "South America",
+    "totalArea": 756102,
+    "gdpPerCapita": 13231,
+    "iconicPlaces": [
+      "Torres del Paine National Park",
+      "Easter Island",
+      "Atacama Desert",
+      "Valparaíso",
+      "San Rafael Glacier"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Chile"
   },
   {
@@ -336,7 +600,15 @@
     "fact": "China is the most populous country in the world and has a rich cultural heritage.",
     "continent": "Asia",
     "currency": "Renminbi (Yuan)",
-    "subregion": "Eastern Asia",
+    "totalArea": 9596961,
+    "gdpPerCapita": 10500,
+    "iconicPlaces": [
+      "Great Wall of China",
+      "Forbidden City",
+      "Terracotta Army",
+      "Li River",
+      "The Bund, Shanghai"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/China"
   },
   {
@@ -346,7 +618,15 @@
     "fact": "Colombia is known for its coffee and diverse landscapes.",
     "continent": "South America",
     "currency": "Colombian peso",
-    "subregion": "South America",
+    "totalArea": 1141748,
+    "gdpPerCapita": 5333,
+    "iconicPlaces": [
+      "Cartagena Old Town",
+      "Tayrona National Park",
+      "Cocora Valley",
+      "Salt Cathedral of Zipaquirá",
+      "San Agustín Archaeological Park"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Colombia"
   },
   {
@@ -356,7 +636,15 @@
     "fact": "Comoros is known for its volcanic islands and marine biodiversity.",
     "continent": "Africa",
     "currency": "Comorian franc",
-    "subregion": "Eastern Africa",
+    "totalArea": 1862,
+    "gdpPerCapita": 1362,
+    "iconicPlaces": [
+      "Mount Karthala",
+      "Chomoni Beach",
+      "Mohéli Marine Park",
+      "Chindini Beach",
+      "Mwali Island"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Comoros"
   },
   {
@@ -366,7 +654,15 @@
     "fact": "The Democratic Republic of the Congo is known for its rainforests and the Congo River.",
     "continent": "Africa",
     "currency": "Congolese franc",
-    "subregion": "Middle Africa",
+    "totalArea": 2344858,
+    "gdpPerCapita": 495,
+    "iconicPlaces": [
+      "Virunga National Park",
+      "Nyiragongo Volcano",
+      "Kahuzi-Biega National Park",
+      "Garamba National Park",
+      "Kinshasa's Symphonies of Life"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo"
   },
   {
@@ -376,7 +672,15 @@
     "fact": "The Republic of the Congo is known for its rainforests and wildlife.",
     "continent": "Africa",
     "currency": "Central African CFA franc",
-    "subregion": "Middle Africa",
+    "totalArea": 342000,
+    "gdpPerCapita": 1973,
+    "iconicPlaces": [
+      "Odzala-Kokoua National Park",
+      "Nouabalé-Ndoki National Park",
+      "Loango National Park",
+      "Pointe-Noire beaches",
+      "Basilique Sainte-Anne, Brazzaville"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Republic_of_the_Congo"
   },
   {
@@ -386,7 +690,15 @@
     "fact": "Costa Rica is famous for its biodiversity and eco-tourism.",
     "continent": "North America",
     "currency": "Costa Rican colón",
-    "subregion": "Central America",
+    "totalArea": 51100,
+    "gdpPerCapita": 12141,
+    "iconicPlaces": [
+      "Arenal Volcano",
+      "Manuel Antonio National Park",
+      "Monteverde Cloud Forest Reserve",
+      "Tortuguero National Park",
+      "Corcovado National Park"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Costa_Rica"
   },
   {
@@ -396,7 +708,15 @@
     "fact": "Croatia is known for its medieval architecture and Adriatic coastline.",
     "continent": "Europe",
     "currency": "Croatian kuna",
-    "subregion": "Balkans",
+    "totalArea": 56594,
+    "gdpPerCapita": 14033,
+    "iconicPlaces": [
+      "Dubrovnik Old Town",
+      "Plitvice Lakes National Park",
+      "Diocletian's Palace",
+      "Hvar Island",
+      "Pula Arena"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Croatia"
   },
   {
@@ -406,7 +726,15 @@
     "fact": "Cuba is famous for its cigars, music, and vintage cars.",
     "continent": "North America",
     "currency": "Cuban peso",
-    "subregion": "Caribbean",
+    "totalArea": 109884,
+    "gdpPerCapita": 9099,
+    "iconicPlaces": [
+      "Old Havana",
+      "Varadero Beach",
+      "Viñales Valley",
+      "Trinidad",
+      "El Malecón"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Cuba"
   },
   {
@@ -416,7 +744,15 @@
     "fact": "Cyprus is known for its archaeological sites and Mediterranean beaches.",
     "continent": "Europe",
     "currency": "Euro",
-    "subregion": "Western Asia",
+    "totalArea": 9251,
+    "gdpPerCapita": 26623,
+    "iconicPlaces": [
+      "Paphos Archaeological Park",
+      "Nissi Beach",
+      "Kourion",
+      "Troodos Mountains",
+      "Kyrenia Harbor"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Cyprus"
   },
   {
@@ -426,7 +762,15 @@
     "fact": "The Czech Republic is known for its historic towns and castles.",
     "continent": "Europe",
     "currency": "Czech koruna",
-    "subregion": "Eastern Europe",
+    "totalArea": 78867,
+    "gdpPerCapita": 22932,
+    "iconicPlaces": [
+      "Prague Castle",
+      "Charles Bridge",
+      "Český Krumlov",
+      "Karlštejn Castle",
+      "Bohemian Switzerland National Park"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Czech_Republic"
   },
   {
@@ -436,7 +780,15 @@
     "fact": "Denmark is famous for its high quality of life and design.",
     "continent": "Europe",
     "currency": "Danish krone",
-    "subregion": "Scandinavia",
+    "totalArea": 43094,
+    "gdpPerCapita": 67803,
+    "iconicPlaces": [
+      "Tivoli Gardens",
+      "Nyhavn",
+      "The Little Mermaid",
+      "Legoland Billund",
+      "Kronborg Castle"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Denmark"
   },
   {
@@ -446,7 +798,15 @@
     "fact": "Djibouti is known for its strategic location on the Horn of Africa.",
     "continent": "Africa",
     "currency": "Djiboutian franc",
-    "subregion": "Eastern Africa",
+    "totalArea": 23200,
+    "gdpPerCapita": 3414,
+    "iconicPlaces": [
+      "Lake Assal",
+      "Moucha Island",
+      "Day Forest National Park",
+      "Goda Mountains",
+      "Gulf of Tadjoura"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Djibouti"
   },
   {
@@ -456,7 +816,15 @@
     "fact": "Dominica is known for its natural hot springs and tropical rainforests.",
     "continent": "North America",
     "currency": "East Caribbean dollar",
-    "subregion": "Caribbean",
+    "totalArea": 751,
+    "gdpPerCapita": 7268,
+    "iconicPlaces": [
+      "Boiling Lake",
+      "Morne Trois Pitons National Park",
+      "Champagne Reef",
+      "Trafalgar Falls",
+      "Cabrits National Park"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Dominica"
   },
   {
@@ -466,7 +834,15 @@
     "fact": "The Dominican Republic is known for its beaches, resorts, and golf courses.",
     "continent": "North America",
     "currency": "Dominican peso",
-    "subregion": "Caribbean",
+    "totalArea": 48671,
+    "gdpPerCapita": 7268,
+    "iconicPlaces": [
+      "Punta Cana",
+      "Zona Colonial, Santo Domingo",
+      "Saona Island",
+      "Amber Mountain",
+      "27 Charcos of Damajagua"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Dominican_Republic"
   },
   {
@@ -476,7 +852,15 @@
     "fact": "East Timor is known for its rich cultural heritage and beautiful beaches.",
     "continent": "Asia",
     "currency": "United States dollar",
-    "subregion": "Southeast Asia",
+    "totalArea": 14874,
+    "gdpPerCapita": 1294,
+    "iconicPlaces": [
+      "Cristo Rei of Dili",
+      "Jaco Island",
+      "Mount Ramelau",
+      "Atauro Island",
+      "Nino Konis Santana National Park"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/East_Timor"
   },
   {
@@ -486,7 +870,15 @@
     "fact": "Ecuador is known for its diverse wildlife and the Galápagos Islands.",
     "continent": "South America",
     "currency": "United States dollar",
-    "subregion": "South America",
+    "totalArea": 283561,
+    "gdpPerCapita": 5600,
+    "iconicPlaces": [
+      "Galápagos Islands",
+      "Cotopaxi National Park",
+      "Quito Old Town",
+      "Mitad del Mundo",
+      "Cuenca"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Ecuador"
   },
   {
@@ -496,7 +888,15 @@
     "fact": "Egypt is famous for its ancient civilization and pyramids.",
     "continent": "Africa",
     "currency": "Egyptian pound",
-    "subregion": "North Africa",
+    "totalArea": 1001450,
+    "gdpPerCapita": 3547,
+    "iconicPlaces": [
+      "Great Pyramids of Giza",
+      "Luxor's Karnak Temple",
+      "Valley of the Kings",
+      "Abu Simbel temples",
+      "Red Sea Reef"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Egypt"
   },
   {
@@ -506,7 +906,15 @@
     "fact": "El Salvador is known for its Pacific Ocean beaches and surf spots.",
     "continent": "North America",
     "currency": "United States dollar",
-    "subregion": "Central America",
+    "totalArea": 21041,
+    "gdpPerCapita": 4187,
+    "iconicPlaces": [
+      "Tazumal",
+      "El Boquerón National Park",
+      "Joya de Cerén",
+      "Lake Coatepeque",
+      "El Tunco Beach"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/El_Salvador"
   },
   {
@@ -516,7 +924,15 @@
     "fact": "Equatorial Guinea is known for its oil reserves and Spanish colonial architecture.",
     "continent": "Africa",
     "currency": "Central African CFA franc",
-    "subregion": "Middle Africa",
+    "totalArea": 28051,
+    "gdpPerCapita": 7143,
+    "iconicPlaces": [
+      "Monte Alén National Park",
+      "Malabo Cathedral",
+      "Bata Beach",
+      "Ureca",
+      "Moca Valley"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Equatorial_Guinea"
   },
   {
@@ -526,7 +942,15 @@
     "fact": "Eritrea is known for its Italian colonial buildings and Red Sea coastline.",
     "continent": "Africa",
     "currency": "Eritrean nakfa",
-    "subregion": "Eastern Africa",
+    "totalArea": 117600,
+    "gdpPerCapita": 566,
+    "iconicPlaces": [
+      "Asmara's Modernist Architecture",
+      "Dahlak Archipelago",
+      "Qohaito",
+      "Martyrs National Park",
+      "Adulis"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Eritrea"
   },
   {
@@ -536,7 +960,15 @@
     "fact": "Estonia is known for its preserved medieval architecture and digital society.",
     "continent": "Europe",
     "currency": "Euro",
-    "subregion": "Northern Europe",
+    "totalArea": 45227,
+    "gdpPerCapita": 23027,
+    "iconicPlaces": [
+      "Tallinn Old Town",
+      "Saaremaa Island",
+      "Lahemaa National Park",
+      "Tartu",
+      "Kumu Art Museum"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Estonia"
   },
   {
@@ -546,7 +978,15 @@
     "fact": "Eswatini is known for its wilderness reserves and festivals showcasing traditional Swazi culture.",
     "continent": "Africa",
     "currency": "Swazi lilangeni",
-    "subregion": "Southern Africa",
+    "totalArea": 17364,
+    "gdpPerCapita": 3837,
+    "iconicPlaces": [
+      "Hlane Royal National Park",
+      "Mlilwane Wildlife Sanctuary",
+      "Sibebe Rock",
+      "Mkhaya Game Reserve",
+      "Mantenga Cultural Village"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Eswatini"
   },
   {
@@ -556,7 +996,15 @@
     "fact": "Ethiopia is known for being the birthplace of coffee and its ancient civilization.",
     "continent": "Africa",
     "currency": "Ethiopian birr",
-    "subregion": "Eastern Africa",
+    "totalArea": 1104300,
+    "gdpPerCapita": 936,
+    "iconicPlaces": [
+      "Lalibela Rock Churches",
+      "Simien Mountains National Park",
+      "Omo Valley",
+      "Danakil Depression",
+      "Aksum"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Ethiopia"
   },
   {
@@ -566,7 +1014,15 @@
     "fact": "Fiji is famous for its coral reefs and clear lagoons.",
     "continent": "Oceania",
     "currency": "Fijian dollar",
-    "subregion": "Melanesia",
+    "totalArea": 18274,
+    "gdpPerCapita": 4882,
+    "iconicPlaces": [
+      "Mamanuca Islands",
+      "Yasawa Islands",
+      "Garden of the Sleeping Giant",
+      "Sigatoka Sand Dunes",
+      "Bouma National Heritage Park"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Fiji"
   },
   {
@@ -576,7 +1032,15 @@
     "fact": "Finland is known for its high quality of life and stunning natural scenery.",
     "continent": "Europe",
     "currency": "Euro",
-    "subregion": "Nordic",
+    "totalArea": 338424,
+    "gdpPerCapita": 48461,
+    "iconicPlaces": [
+      "Northern Lights in Lapland",
+      "Helsinki Cathedral",
+      "Suomenlinna",
+      "Santa Claus Village",
+      "Levi Ski Resort"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Finland"
   },
   {
@@ -586,7 +1050,15 @@
     "fact": "France is known for its wine, food, and the Eiffel Tower.",
     "continent": "Europe",
     "currency": "Euro",
-    "subregion": "Western Europe",
+    "totalArea": 551695,
+    "gdpPerCapita": 39030,
+    "iconicPlaces": [
+      "Eiffel Tower",
+      "Louvre Museum",
+      "Palace of Versailles",
+      "Mont Saint-Michel",
+      "French Riviera"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/France"
   },
   {
@@ -596,7 +1068,15 @@
     "fact": "Gabon is known for its rainforests and wildlife.",
     "continent": "Africa",
     "currency": "Central African CFA franc",
-    "subregion": "Middle Africa",
+    "totalArea": 267667,
+    "gdpPerCapita": 7006,
+    "iconicPlaces": [
+      "Lopé National Park",
+      "Ivindo National Park",
+      "Pongara National Park",
+      "Pointe Denis Beach",
+      "L'Église St-Michel, Libreville"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Gabon"
   },
   {
@@ -606,7 +1086,15 @@
     "fact": "The Gambia is known for its diverse ecosystems along the central Gambia River.",
     "continent": "Africa",
     "currency": "Gambian dalasi",
-    "subregion": "West Africa",
+    "totalArea": 11300,
+    "gdpPerCapita": 787,
+    "iconicPlaces": [
+      "Kunta Kinteh Island",
+      "Abuko Nature Reserve",
+      "Banjul Market",
+      "Kachikally Crocodile Pool",
+      "Tanji Bird Reserve"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/The_Gambia"
   },
   {
@@ -616,7 +1104,15 @@
     "fact": "Georgia is known for its ancient winemaking tradition.",
     "continent": "Asia",
     "currency": "Georgian lari",
-    "subregion": "Other",
+    "totalArea": 69700,
+    "gdpPerCapita": 4278,
+    "iconicPlaces": [
+      "Ushguli",
+      "Gelati Monastery",
+      "Vardzia",
+      "Tbilisi Old Town",
+      "Kazbegi National Park"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Georgia_(country)"
   },
   {
@@ -626,7 +1122,15 @@
     "fact": "Germany is famous for its beer, engineering, and cultural history.",
     "continent": "Europe",
     "currency": "Euro",
-    "subregion": "Western Europe",
+    "totalArea": 357022,
+    "gdpPerCapita": 45724,
+    "iconicPlaces": [
+      "Brandenburg Gate",
+      "Neuschwanstein Castle",
+      "Cologne Cathedral",
+      "Black Forest",
+      "Miniatur Wunderland"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Germany"
   },
   {
@@ -636,7 +1140,15 @@
     "fact": "Ghana is known for its gold, cocoa, and rich cultural heritage.",
     "continent": "Africa",
     "currency": "Ghanaian cedi",
-    "subregion": "West Africa",
+    "totalArea": 238533,
+    "gdpPerCapita": 2206,
+    "iconicPlaces": [
+      "Cape Coast Castle",
+      "Kakum National Park",
+      "Mole National Park",
+      "Labadi Beach",
+      "Lake Volta"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Ghana"
   },
   {
@@ -646,7 +1158,15 @@
     "fact": "Greece is known as the cradle of Western civilization and for its ancient ruins.",
     "continent": "Europe",
     "currency": "Euro",
-    "subregion": "Southern Europe",
+    "totalArea": 131957,
+    "gdpPerCapita": 17676,
+    "iconicPlaces": [
+      "Acropolis of Athens",
+      "Santorini",
+      "Meteora",
+      "Delphi",
+      "Mykonos"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Greece"
   },
   {
@@ -656,7 +1176,15 @@
     "fact": "Grenada is known as the 'Spice Isle' due to its production of nutmeg and mace.",
     "continent": "North America",
     "currency": "East Caribbean dollar",
-    "subregion": "Caribbean",
+    "totalArea": 344,
+    "gdpPerCapita": 9255,
+    "iconicPlaces": [
+      "Grand Anse Beach",
+      "Seven Sisters Waterfall",
+      "Fort George",
+      "Underwater Sculpture Park",
+      "Belmont Estate"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Grenada"
   },
   {
@@ -666,7 +1194,15 @@
     "fact": "Guatemala is known for its Mayan history and volcanic landscapes.",
     "continent": "North America",
     "currency": "Guatemalan quetzal",
-    "subregion": "Central America",
+    "totalArea": 108889,
+    "gdpPerCapita": 4603,
+    "iconicPlaces": [
+      "Tikal",
+      "Antigua Guatemala",
+      "Lake Atitlán",
+      "Semuc Champey",
+      "Pacaya Volcano"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Guatemala"
   },
   {
@@ -676,7 +1212,15 @@
     "fact": "Guinea is known for its natural resources, including bauxite and iron ore.",
     "continent": "Africa",
     "currency": "Guinean franc",
-    "subregion": "West Africa",
+    "totalArea": 245857,
+    "gdpPerCapita": 1194,
+    "iconicPlaces": [
+      "Mount Nimba Strict Nature Reserve",
+      "Îles de Los",
+      "Forêt Classée de Ziama",
+      "National Museum of Guinea",
+      "Soumba Waterfalls"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Guinea"
   },
   {
@@ -686,7 +1230,15 @@
     "fact": "Guinea-Bissau is known for its national parks and wildlife.",
     "continent": "Africa",
     "currency": "West African CFA franc",
-    "subregion": "West Africa",
+    "totalArea": 36125,
+    "gdpPerCapita": 697,
+    "iconicPlaces": [
+      "Bissagos Islands",
+      "Orango National Park",
+      "Cantanhez Forest National Park",
+      "Varela Beach",
+      "Fortaleza d'Amura"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Guinea-Bissau"
   },
   {
@@ -696,7 +1248,15 @@
     "fact": "Guyana is known for its dense rainforests and vast biodiversity.",
     "continent": "South America",
     "currency": "Guyanese dollar",
-    "subregion": "South America",
+    "totalArea": 214969,
+    "gdpPerCapita": 6956,
+    "iconicPlaces": [
+      "Kaieteur Falls",
+      "Shell Beach",
+      "Iwokrama Forest",
+      "St. George's Cathedral",
+      "Orinduik Falls"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Guyana"
   },
   {
@@ -706,7 +1266,15 @@
     "fact": "Haiti is known for its vibrant culture and history of resilience.",
     "continent": "North America",
     "currency": "Haitian gourde",
-    "subregion": "Caribbean",
+    "totalArea": 27750,
+    "gdpPerCapita": 1177,
+    "iconicPlaces": [
+      "Citadelle Laferrière",
+      "Labadee",
+      "Jacmel",
+      "Sans-Souci Palace",
+      "Bassin Bleu"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Haiti"
   },
   {
@@ -716,7 +1284,15 @@
     "fact": "Honduras is known for its rich natural resources and ancient Maya ruins.",
     "continent": "North America",
     "currency": "Honduran lempira",
-    "subregion": "Central America",
+    "totalArea": 112492,
+    "gdpPerCapita": 2406,
+    "iconicPlaces": [
+      "Roatán",
+      "Copán Ruins",
+      "Punta Sal",
+      "Lake Yojoa",
+      "Río Plátano Biosphere Reserve"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Honduras"
   },
   {
@@ -726,7 +1302,15 @@
     "fact": "Hungary is known for its thermal spas and historic architecture.",
     "continent": "Europe",
     "currency": "Hungarian forint",
-    "subregion": "Eastern Europe",
+    "totalArea": 93028,
+    "gdpPerCapita": 15899,
+    "iconicPlaces": [
+      "Buda Castle",
+      "Széchenyi Thermal Bath",
+      "Lake Balaton",
+      "Fisherman's Bastion",
+      "Eger Castle"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Hungary"
   },
   {
@@ -736,7 +1320,15 @@
     "fact": "Iceland is known for its dramatic landscapes with volcanoes, geysers, hot springs, and lava fields.",
     "continent": "Europe",
     "currency": "Icelandic króna",
-    "subregion": "Nordic",
+    "totalArea": 103000,
+    "gdpPerCapita": 59270,
+    "iconicPlaces": [
+      "Blue Lagoon",
+      "Golden Circle",
+      "Vatnajökull National Park",
+      "Gullfoss",
+      "Thingvellir National Park"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Iceland"
   },
   {
@@ -746,7 +1338,15 @@
     "fact": "India is known for its diverse culture, languages, and heritage sites.",
     "continent": "Asia",
     "currency": "Indian rupee",
-    "subregion": "South Asia",
+    "totalArea": 3287263,
+    "gdpPerCapita": 1901,
+    "iconicPlaces": [
+      "Taj Mahal",
+      "Jaipur's Amber Fort",
+      "Kerala Backwaters",
+      "Varanasi Ghats",
+      "Golden Temple"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/India"
   },
   {
@@ -756,7 +1356,15 @@
     "fact": "Indonesia is famous for its islands, beaches, and volcanic activity.",
     "continent": "Asia",
     "currency": "Indonesian rupiah",
-    "subregion": "Southeast Asia",
+    "totalArea": 1904569,
+    "gdpPerCapita": 3870,
+    "iconicPlaces": [
+      "Bali",
+      "Borobudur Temple",
+      "Komodo National Park",
+      "Mount Bromo",
+      "Raja Ampat Islands"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Indonesia"
   },
   {
@@ -766,7 +1374,15 @@
     "fact": "Iran is known for its Persian culture and historical sites.",
     "continent": "Asia",
     "currency": "Iranian rial",
-    "subregion": "Middle East",
+    "totalArea": 1648195,
+    "gdpPerCapita": 2282,
+    "iconicPlaces": [
+      "Persepolis",
+      "Naqsh-e Jahan Square",
+      "Golestan Palace",
+      "Nasir ol Molk Mosque",
+      "Yazd Old City"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Iran"
   },
   {
@@ -776,7 +1392,15 @@
     "fact": "Iraq is known for its rich history as part of ancient Mesopotamia.",
     "continent": "Asia",
     "currency": "Iraqi dinar",
-    "subregion": "Middle East",
+    "totalArea": 438317,
+    "gdpPerCapita": 4632,
+    "iconicPlaces": [
+      "Babylon",
+      "Great Mosque of Samarra",
+      "Erbil Citadel",
+      "Ziggurat of Ur",
+      "Al-Askari Shrine"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Iraq"
   },
   {
@@ -786,7 +1410,15 @@
     "fact": "Ireland is known for its lush landscapes, castles, and cultural heritage.",
     "continent": "Europe",
     "currency": "Euro",
-    "subregion": "Northern Europe",
+    "totalArea": 70273,
+    "gdpPerCapita": 94556,
+    "iconicPlaces": [
+      "Cliffs of Moher",
+      "Giant's Causeway",
+      "Ring of Kerry",
+      "Guinness Storehouse",
+      "Newgrange"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Ireland"
   },
   {
@@ -796,7 +1428,15 @@
     "fact": "Israel is known for its biblical history and diverse cultural heritage.",
     "continent": "Asia",
     "currency": "Israeli new shekel",
-    "subregion": "Middle East",
+    "totalArea": 20770,
+    "gdpPerCapita": 44168,
+    "iconicPlaces": [
+      "Western Wall",
+      "Masada",
+      "Dead Sea",
+      "Tel Aviv Beaches",
+      "Baha'i Gardens"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Israel"
   },
   {
@@ -806,7 +1446,15 @@
     "fact": "Italy is known for its art, architecture, and cuisine.",
     "continent": "Europe",
     "currency": "Euro",
-    "subregion": "Southern Europe",
+    "totalArea": 301340,
+    "gdpPerCapita": 31676,
+    "iconicPlaces": [
+      "Colosseum",
+      "Venice Canals",
+      "Leaning Tower of Pisa",
+      "Florence Cathedral",
+      "Amalfi Coast"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Italy"
   },
   {
@@ -816,7 +1464,15 @@
     "fact": "Jamaica is famous for its reggae music and beautiful beaches.",
     "continent": "North America",
     "currency": "Jamaican dollar",
-    "subregion": "Caribbean",
+    "totalArea": 10991,
+    "gdpPerCapita": 4665,
+    "iconicPlaces": [
+      "Dunn's River Falls",
+      "Seven Mile Beach",
+      "Blue Mountains",
+      "Bob Marley Museum",
+      "Rose Hall Great House"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Jamaica"
   },
   {
@@ -826,7 +1482,15 @@
     "fact": "Japan is famous for its cherry blossoms and advanced technology.",
     "continent": "Asia",
     "currency": "Japanese yen",
-    "subregion": "Eastern Asia",
+    "totalArea": 377975,
+    "gdpPerCapita": 39285,
+    "iconicPlaces": [
+      "Mount Fuji",
+      "Fushimi Inari Shrine",
+      "Tokyo Skytree",
+      "Hiroshima Peace Memorial",
+      "Osaka Castle"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Japan"
   },
   {
@@ -836,7 +1500,15 @@
     "fact": "Jordan is known for the ancient city of Petra and its desert landscapes.",
     "continent": "Asia",
     "currency": "Jordanian dinar",
-    "subregion": "Middle East",
+    "totalArea": 89342,
+    "gdpPerCapita": 4282,
+    "iconicPlaces": [
+      "Petra",
+      "Wadi Rum",
+      "Dead Sea",
+      "Jerash",
+      "Amman Citadel"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Jordan"
   },
   {
@@ -846,7 +1518,15 @@
     "fact": "Kazakhstan is known for its vast steppes and nomadic culture.",
     "continent": "Asia",
     "currency": "Kazakhstani tenge",
-    "subregion": "Central Asia",
+    "totalArea": 2724900,
+    "gdpPerCapita": 9122,
+    "iconicPlaces": [
+      "Charyn Canyon",
+      "Bayterek Tower",
+      "Khoja Ahmed Yasawi Mausoleum",
+      "Almaty Central Park",
+      "Big Almaty Lake"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Kazakhstan"
   },
   {
@@ -856,7 +1536,15 @@
     "fact": "Kenya is famous for its safaris and diverse wildlife.",
     "continent": "Africa",
     "currency": "Kenyan shilling",
-    "subregion": "Eastern Africa",
+    "totalArea": 580367,
+    "gdpPerCapita": 1838,
+    "iconicPlaces": [
+      "Maasai Mara",
+      "Mount Kenya",
+      "Amboseli National Park",
+      "Lamu Old Town",
+      "Nairobi National Park"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Kenya"
   },
   {
@@ -866,7 +1554,15 @@
     "fact": "Kiribati is known for its marine life and beautiful atolls.",
     "continent": "Oceania",
     "currency": "Australian dollar",
-    "subregion": "Micronesia",
+    "totalArea": 811,
+    "gdpPerCapita": 1671,
+    "iconicPlaces": [
+      "Phoenix Islands Protected Area",
+      "Kiritimati",
+      "Ambo Conservation Area",
+      "Tarawa War Relics",
+      "Bonriki Beach"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Kiribati"
   },
   {
@@ -876,7 +1572,15 @@
     "fact": "North Korea is known for its strict regime and isolation.",
     "continent": "Asia",
     "currency": "North Korean won",
-    "subregion": "Other",
+    "totalArea": 120538,
+    "gdpPerCapita": 1700,
+    "iconicPlaces": [
+      "Juche Tower",
+      "Kumsusan Palace of the Sun",
+      "Mount Paektu",
+      "Arch of Triumph",
+      "Ryugyong Hotel"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/North_Korea"
   },
   {
@@ -886,7 +1590,15 @@
     "fact": "South Korea is known for its technology, pop culture, and historical sites.",
     "continent": "Asia",
     "currency": "South Korean won",
-    "subregion": "Other",
+    "totalArea": 100210,
+    "gdpPerCapita": 31489,
+    "iconicPlaces": [
+      "Gyeongbokgung Palace",
+      "Jeju Island",
+      "Namsan Seoul Tower",
+      "Bukchon Hanok Village",
+      "Busan Gamcheon Culture Village"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/South_Korea"
   },
   {
@@ -896,7 +1608,15 @@
     "fact": "Kuwait is known for its oil reserves and modern architecture.",
     "continent": "Asia",
     "currency": "Kuwaiti dinar",
-    "subregion": "Middle East",
+    "totalArea": 17818,
+    "gdpPerCapita": 24812,
+    "iconicPlaces": [
+      "Kuwait Towers",
+      "Grand Mosque",
+      "Al Shaheed Park",
+      "Failaka Island",
+      "The Avenues Mall"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Kuwait"
   },
   {
@@ -906,7 +1626,15 @@
     "fact": "Kyrgyzstan is known for its mountainous terrain and nomadic traditions.",
     "continent": "Asia",
     "currency": "Kyrgyzstani som",
-    "subregion": "Central Asia",
+    "totalArea": 199951,
+    "gdpPerCapita": 1173,
+    "iconicPlaces": [
+      "Issyk-Kul Lake",
+      "Ala Archa National Park",
+      "Song Kol Lake",
+      "Burana Tower",
+      "Tash Rabat Caravanserai"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Kyrgyzstan"
   },
   {
@@ -916,7 +1644,15 @@
     "fact": "Laos is known for its mountainous landscape and Buddhist monasteries.",
     "continent": "Asia",
     "currency": "Lao kip",
-    "subregion": "Southeast Asia",
+    "totalArea": 236800,
+    "gdpPerCapita": 2534,
+    "iconicPlaces": [
+      "Luang Prabang",
+      "Kuang Si Falls",
+      "Plain of Jars",
+      "Vat Phou",
+      "That Luang"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Laos"
   },
   {
@@ -926,7 +1662,15 @@
     "fact": "Latvia is known for its wooden architecture and beautiful coastline.",
     "continent": "Europe",
     "currency": "Euro",
-    "subregion": "Northern Europe",
+    "totalArea": 64589,
+    "gdpPerCapita": 17619,
+    "iconicPlaces": [
+      "Riga Old Town",
+      "Rundale Palace",
+      "Gauja National Park",
+      "Jurmala Beach",
+      "Turaida Castle"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Latvia"
   },
   {
@@ -936,7 +1680,15 @@
     "fact": "Lebanon is known for its ancient history and vibrant culture.",
     "continent": "Asia",
     "currency": "Lebanese pound",
-    "subregion": "Middle East",
+    "totalArea": 10452,
+    "gdpPerCapita": 4650,
+    "iconicPlaces": [
+      "Baalbek",
+      "Jeita Grotto",
+      "Byblos",
+      "Cedars of God",
+      "Beirut National Museum"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Lebanon"
   },
   {
@@ -946,7 +1698,15 @@
     "fact": "Lesotho is known for its mountainous terrain and traditional Basotho culture.",
     "continent": "Africa",
     "currency": "Lesotho loti",
-    "subregion": "Southern Africa",
+    "totalArea": 30355,
+    "gdpPerCapita": 861,
+    "iconicPlaces": [
+      "Tsehlanyane National Park",
+      "Maletsunyane Falls",
+      "Thaba Bosiu",
+      "Katse Dam",
+      "Sani Pass"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Lesotho"
   },
   {
@@ -956,7 +1716,15 @@
     "fact": "Liberia is known for its history as a settlement for freed African American slaves.",
     "continent": "Africa",
     "currency": "Liberian dollar",
-    "subregion": "West Africa",
+    "totalArea": 111369,
+    "gdpPerCapita": 632,
+    "iconicPlaces": [
+      "Sapo National Park",
+      "Robertsport Beach",
+      "Providence Island",
+      "Mount Nimba",
+      "Liberian National Museum"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Liberia"
   },
   {
@@ -966,7 +1734,15 @@
     "fact": "Libya is known for its desert landscapes and ancient Greek and Roman ruins.",
     "continent": "Africa",
     "currency": "Libyan dinar",
-    "subregion": "North Africa",
+    "totalArea": 1759540,
+    "gdpPerCapita": 3699,
+    "iconicPlaces": [
+      "Leptis Magna",
+      "Cyrene",
+      "Ghadames",
+      "Acacus Mountains",
+      "Tripoli's Red Castle Museum"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Libya"
   },
   {
@@ -976,7 +1752,15 @@
     "fact": "Liechtenstein is known for its medieval castles and alpine landscapes.",
     "continent": "Europe",
     "currency": "Swiss franc",
-    "subregion": "Western Europe",
+    "totalArea": 160,
+    "gdpPerCapita": 168146,
+    "iconicPlaces": [
+      "Vaduz Castle",
+      "Gutenberg Castle",
+      "Liechtenstein National Museum",
+      "Malbun Ski Resort",
+      "Red House in Vaduz"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Liechtenstein"
   },
   {
@@ -986,7 +1770,15 @@
     "fact": "Lithuania is known for its historic architecture and forests.",
     "continent": "Europe",
     "currency": "Euro",
-    "subregion": "Northern Europe",
+    "totalArea": 65300,
+    "gdpPerCapita": 19997,
+    "iconicPlaces": [
+      "Trakai Island Castle",
+      "Hill of Crosses",
+      "Vilnius Old Town",
+      "Curonian Spit",
+      "Gediminas' Tower"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Lithuania"
   },
   {
@@ -996,7 +1788,15 @@
     "fact": "Luxembourg is known for its wealth and medieval old town.",
     "continent": "Europe",
     "currency": "Euro",
-    "subregion": "Western Europe",
+    "totalArea": 2586,
+    "gdpPerCapita": 118001,
+    "iconicPlaces": [
+      "Vianden Castle",
+      "Bock Casemates",
+      "Notre-Dame Cathedral",
+      "Echternach",
+      "Mullerthal Trail"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Luxembourg"
   },
   {
@@ -1006,7 +1806,15 @@
     "fact": "Madagascar is famous for its unique wildlife and biodiversity.",
     "continent": "Africa",
     "currency": "Malagasy ariary",
-    "subregion": "Eastern Africa",
+    "totalArea": 587041,
+    "gdpPerCapita": 471,
+    "iconicPlaces": [
+      "Avenue of the Baobabs",
+      "Tsingy de Bemaraha",
+      "Isalo National Park",
+      "Ranomafana National Park",
+      "Nosy Be"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Madagascar"
   },
   {
@@ -1016,7 +1824,15 @@
     "fact": "Malawi is known for its lake, Lake Malawi, and its diverse ecosystems.",
     "continent": "Africa",
     "currency": "Malawian kwacha",
-    "subregion": "Eastern Africa",
+    "totalArea": 118484,
+    "gdpPerCapita": 625,
+    "iconicPlaces": [
+      "Lake Malawi",
+      "Liwonde National Park",
+      "Mount Mulanje",
+      "Nyika National Park",
+      "Likoma Island"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Malawi"
   },
   {
@@ -1026,7 +1842,15 @@
     "fact": "Malaysia is known for its beaches, rainforests, and mix of Malay, Chinese, Indian, and European cultural influences.",
     "continent": "Asia",
     "currency": "Malaysian ringgit",
-    "subregion": "Southeast Asia",
+    "totalArea": 330803,
+    "gdpPerCapita": 10412,
+    "iconicPlaces": [
+      "Petronas Towers",
+      "Batu Caves",
+      "Langkawi",
+      "Mount Kinabalu",
+      "Malacca City"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Malaysia"
   },
   {
@@ -1036,7 +1860,15 @@
     "fact": "The Maldives is famous for its white sandy beaches and luxury resorts.",
     "continent": "Asia",
     "currency": "Maldivian rufiyaa",
-    "subregion": "South Asia",
+    "totalArea": 300,
+    "gdpPerCapita": 7456,
+    "iconicPlaces": [
+      "Maafushi Island",
+      "National Museum",
+      "Hulhumale Island",
+      "Artificial Beach",
+      "Maldive Victory Wreck"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Maldives"
   },
   {
@@ -1046,7 +1878,15 @@
     "fact": "Mali is known for its rich history and the ancient city of Timbuktu.",
     "continent": "Africa",
     "currency": "West African CFA franc",
-    "subregion": "West Africa",
+    "totalArea": 1240192,
+    "gdpPerCapita": 859,
+    "iconicPlaces": [
+      "Timbuktu",
+      "Great Mosque of Djenné",
+      "Bandiagara Escarpment",
+      "National Museum of Mali",
+      "Niger River"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Mali"
   },
   {
@@ -1056,7 +1896,15 @@
     "fact": "Malta is known for its historic sites related to a succession of rulers including the Romans, Moors, Knights of Saint John, French, and British.",
     "continent": "Europe",
     "currency": "Euro",
-    "subregion": "Southern Europe",
+    "totalArea": 316,
+    "gdpPerCapita": 30075,
+    "iconicPlaces": [
+      "Valletta",
+      "Blue Lagoon, Comino",
+      "Mdina",
+      "Ħaġar Qim",
+      "St. John's Co-Cathedral"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Malta"
   },
   {
@@ -1066,7 +1914,15 @@
     "fact": "The Marshall Islands are known for their atolls and marine life.",
     "continent": "Oceania",
     "currency": "United States dollar",
-    "subregion": "Micronesia",
+    "totalArea": 181,
+    "gdpPerCapita": 3788,
+    "iconicPlaces": [
+      "Bikini Atoll",
+      "Laura Beach",
+      "Alele Museum",
+      "Arno Atoll",
+      "Jaluit Atoll"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Marshall_Islands"
   },
   {
@@ -1076,7 +1932,15 @@
     "fact": "Mauritania is known for its vast deserts and nomadic culture.",
     "continent": "Africa",
     "currency": "Mauritanian ouguiya",
-    "subregion": "West Africa",
+    "totalArea": 1030700,
+    "gdpPerCapita": 1678,
+    "iconicPlaces": [
+      "Banc d'Arguin National Park",
+      "Chinguetti",
+      "Port de Pêche",
+      "Terjit Oasis",
+      "Nouadhibou"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Mauritania"
   },
   {
@@ -1086,7 +1950,15 @@
     "fact": "Mauritius is known for its beaches, lagoons, and reefs.",
     "continent": "Africa",
     "currency": "Mauritian rupee",
-    "subregion": "Eastern Africa",
+    "totalArea": 2040,
+    "gdpPerCapita": 8627,
+    "iconicPlaces": [
+      "Le Morne Brabant",
+      "Seven Colored Earths",
+      "Black River Gorges National Park",
+      "Île aux Cerfs",
+      "Chamarel Waterfall"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Mauritius"
   },
   {
@@ -1096,7 +1968,15 @@
     "fact": "Mexico is known for its rich cultural heritage, cuisine, and ancient ruins.",
     "continent": "North America",
     "currency": "Mexican peso",
-    "subregion": "North America",
+    "totalArea": 1964375,
+    "gdpPerCapita": 8329,
+    "iconicPlaces": [
+      "Chichen Itza",
+      "Tulum",
+      "Frida Kahlo Museum",
+      "Copper Canyon",
+      "Chapultepec Castle"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Mexico"
   },
   {
@@ -1106,7 +1986,15 @@
     "fact": "Micronesia is known for its palm-shaded beaches, wreck-filled dives, and ancient ruins.",
     "continent": "Oceania",
     "currency": "United States dollar",
-    "subregion": "Micronesia",
+    "totalArea": 702,
+    "gdpPerCapita": 3568,
+    "iconicPlaces": [
+      "Nan Madol",
+      "Kepirohi Waterfall",
+      "Yap Stone Money",
+      "Chuuk Lagoon",
+      "Lelu Ruins"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
   },
   {
@@ -1116,7 +2004,15 @@
     "fact": "Moldova is known for its vineyards and wine production.",
     "continent": "Europe",
     "currency": "Moldovan leu",
-    "subregion": "Eastern Europe",
+    "totalArea": 33851,
+    "gdpPerCapita": 4551,
+    "iconicPlaces": [
+      "Orheiul Vechi",
+      "Cricova Winery",
+      "Ștefan cel Mare Central Park",
+      "Soroca Fortress",
+      "Capriana Monastery"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Moldova"
   },
   {
@@ -1126,7 +2022,15 @@
     "fact": "Monaco is known for its wealth, casinos, and Grand Prix.",
     "continent": "Europe",
     "currency": "Euro",
-    "subregion": "Western Europe",
+    "totalArea": 2.02,
+    "gdpPerCapita": 185741,
+    "iconicPlaces": [
+      "Monte Carlo Casino",
+      "Prince's Palace",
+      "Oceanographic Museum",
+      "Monaco Cathedral",
+      "Larvotto Beach"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Monaco"
   },
   {
@@ -1136,7 +2040,15 @@
     "fact": "Mongolia is known for its vast steppes and nomadic culture.",
     "continent": "Asia",
     "currency": "Mongolian tögrög",
-    "subregion": "Eastern Asia",
+    "totalArea": 1564110,
+    "gdpPerCapita": 3991,
+    "iconicPlaces": [
+      "Gorkhi-Terelj National Park",
+      "Genghis Khan Equestrian Statue",
+      "Erdene Zuu Monastery",
+      "Gobi Desert",
+      "Khuvsgul Lake"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Mongolia"
   },
   {
@@ -1146,7 +2058,15 @@
     "fact": "Montenegro is known for its rugged mountains and medieval villages.",
     "continent": "Europe",
     "currency": "Euro",
-    "subregion": "Balkans",
+    "totalArea": 13812,
+    "gdpPerCapita": 7677,
+    "iconicPlaces": [
+      "Bay of Kotor",
+      "Durmitor National Park",
+      "Sveti Stefan",
+      "Lake Skadar",
+      "Ostrog Monastery"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Montenegro"
   },
   {
@@ -1156,7 +2076,15 @@
     "fact": "Morocco is known for its historic cities, desert landscapes, and vibrant culture.",
     "continent": "Africa",
     "currency": "Moroccan dirham",
-    "subregion": "North Africa",
+    "totalArea": 446550,
+    "gdpPerCapita": 3009,
+    "iconicPlaces": [
+      "Marrakech Medina",
+      "Hassan II Mosque",
+      "Chefchaouen",
+      "Ait Benhaddou",
+      "Sahara Desert"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Morocco"
   },
   {
@@ -1166,7 +2094,15 @@
     "fact": "Mozambique is known for its Indian Ocean coastline and marine parks.",
     "continent": "Africa",
     "currency": "Mozambican metical",
-    "subregion": "Eastern Africa",
+    "totalArea": 801590,
+    "gdpPerCapita": 448,
+    "iconicPlaces": [
+      "Bazaruto Archipelago",
+      "Gorongosa National Park",
+      "Ilha de Moçambique",
+      "Quirimbas Islands",
+      "Maputo Elephant Reserve"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Mozambique"
   },
   {
@@ -1176,7 +2112,15 @@
     "fact": "Myanmar is known for its golden pagodas and rich cultural heritage.",
     "continent": "Asia",
     "currency": "Burmese kyat",
-    "subregion": "Southeast Asia",
+    "totalArea": 676578,
+    "gdpPerCapita": 1400,
+    "iconicPlaces": [
+      "Shwedagon Pagoda",
+      "Bagan",
+      "Inle Lake",
+      "U Bein Bridge",
+      "Golden Rock (Kyaiktiyo Pagoda)"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Myanmar"
   },
   {
@@ -1186,7 +2130,15 @@
     "fact": "Namibia is known for its desert landscapes and wildlife.",
     "continent": "Africa",
     "currency": "Namibian dollar",
-    "subregion": "Southern Africa",
+    "totalArea": 825615,
+    "gdpPerCapita": 4211,
+    "iconicPlaces": [
+      "Etosha National Park",
+      "Sossusvlei",
+      "Fish River Canyon",
+      "Skeleton Coast",
+      "Twyfelfontein"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Namibia"
   },
   {
@@ -1196,7 +2148,15 @@
     "fact": "Nauru is the world's smallest independent republic and third-smallest country by area.",
     "continent": "Oceania",
     "currency": "Australian dollar",
-    "subregion": "Micronesia",
+    "totalArea": 21,
+    "gdpPerCapita": 8344,
+    "iconicPlaces": [
+      "Anibare Bay",
+      "Buada Lagoon",
+      "Command Ridge",
+      "Nauru International Airport",
+      "Central Plateau (Topside)"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Nauru"
   },
   {
@@ -1206,7 +2166,15 @@
     "fact": "Nepal is known for the Himalayas and Mount Everest.",
     "continent": "Asia",
     "currency": "Nepalese rupee",
-    "subregion": "South Asia",
+    "totalArea": 147181,
+    "gdpPerCapita": 1155,
+    "iconicPlaces": [
+      "Mount Everest",
+      "Annapurna Circuit",
+      "Boudhanath Stupa",
+      "Chitwan National Park",
+      "Pashupatinath Temple"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Nepal"
   },
   {
@@ -1216,7 +2184,15 @@
     "fact": "The Netherlands is known for its windmills, tulips, and canals.",
     "continent": "Europe",
     "currency": "Euro",
-    "subregion": "Western Europe",
+    "totalArea": 41543,
+    "gdpPerCapita": 52304,
+    "iconicPlaces": [
+      "Rijksmuseum",
+      "Keukenhof Gardens",
+      "Anne Frank House",
+      "Kinderdijk",
+      "Van Gogh Museum"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Netherlands"
   },
   {
@@ -1226,7 +2202,15 @@
     "fact": "New Zealand is known for its indigenous Māori culture and stunning landscapes.",
     "continent": "Oceania",
     "currency": "New Zealand dollar",
-    "subregion": "Oceania",
+    "totalArea": 268021,
+    "gdpPerCapita": 41792,
+    "iconicPlaces": [
+      "Milford Sound",
+      "Hobbiton Movie Set",
+      "Rotorua",
+      "Tongariro National Park",
+      "Bay of Islands"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/New_Zealand"
   },
   {
@@ -1236,7 +2220,15 @@
     "fact": "Nicaragua is known for its lakes, volcanoes, and beaches.",
     "continent": "North America",
     "currency": "Nicaraguan córdoba",
-    "subregion": "Central America",
+    "totalArea": 130373,
+    "gdpPerCapita": 1905,
+    "iconicPlaces": [
+      "Ometepe Island",
+      "Granada",
+      "Corn Islands",
+      "León Cathedral",
+      "Masaya Volcano National Park"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Nicaragua"
   },
   {
@@ -1246,7 +2238,15 @@
     "fact": "Niger is known for its desert landscapes and wildlife.",
     "continent": "Africa",
     "currency": "West African CFA franc",
-    "subregion": "West Africa",
+    "totalArea": 1267000,
+    "gdpPerCapita": 553,
+    "iconicPlaces": [
+      "Agadez Grand Mosque",
+      "W National Park",
+      "Guérewol Festival",
+      "Air Mountains",
+      "Niamey Grand Market"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Niger"
   },
   {
@@ -1256,7 +2256,15 @@
     "fact": "Nigeria is known for its diverse culture and Nollywood film industry.",
     "continent": "Africa",
     "currency": "Nigerian naira",
-    "subregion": "West Africa",
+    "totalArea": 923768,
+    "gdpPerCapita": 2085,
+    "iconicPlaces": [
+      "Zuma Rock",
+      "Yankari National Park",
+      "Lekki Conservation Centre",
+      "Olumo Rock",
+      "Nike Art Gallery"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Nigeria"
   },
   {
@@ -1266,7 +2274,15 @@
     "fact": "North Macedonia is known for its rich history and natural beauty.",
     "continent": "Europe",
     "currency": "Macedonian denar",
-    "subregion": "Balkans",
+    "totalArea": 25713,
+    "gdpPerCapita": 5888,
+    "iconicPlaces": [
+      "Lake Ohrid",
+      "Matka Canyon",
+      "Stone Town of Ohrid",
+      "Skopje Fortress",
+      "Saint Naum Monastery"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/North_Macedonia"
   },
   {
@@ -1276,7 +2292,15 @@
     "fact": "Norway is known for its fjords, midnight sun, and northern lights.",
     "continent": "Europe",
     "currency": "Norwegian krone",
-    "subregion": "Scandinavia",
+    "totalArea": 385207,
+    "gdpPerCapita": 67294,
+    "iconicPlaces": [
+      "Geirangerfjord",
+      "Preikestolen (Pulpit Rock)",
+      "Bryggen",
+      "Tromsø (for Northern Lights)",
+      "Viking Ship Museum"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Norway"
   },
   {
@@ -1286,7 +2310,15 @@
     "fact": "Oman is known for its historic forts and Arabian architecture.",
     "continent": "Asia",
     "currency": "Omani rial",
-    "subregion": "Middle East",
+    "totalArea": 309500,
+    "gdpPerCapita": 15343,
+    "iconicPlaces": [
+      "Sultan Qaboos Grand Mosque",
+      "Wahiba Sands",
+      "Jebel Shams",
+      "Nizwa Fort",
+      "Muttrah Souq"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Oman"
   },
   {
@@ -1296,7 +2328,15 @@
     "fact": "Pakistan is known for its diverse cultures and landscapes, including the Himalayas.",
     "continent": "Asia",
     "currency": "Pakistani rupee",
-    "subregion": "South Asia",
+    "totalArea": 881913,
+    "gdpPerCapita": 1194,
+    "iconicPlaces": [
+      "Badshahi Mosque",
+      "Mohenjo-daro",
+      "Hunza Valley",
+      "Faisal Mosque",
+      "Makran Coast"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Pakistan"
   },
   {
@@ -1306,7 +2346,15 @@
     "fact": "Palau is known for its marine life and scuba diving sites.",
     "continent": "Oceania",
     "currency": "United States dollar",
-    "subregion": "Micronesia",
+    "totalArea": 459,
+    "gdpPerCapita": 14908,
+    "iconicPlaces": [
+      "Jellyfish Lake",
+      "Rock Islands",
+      "Long Beach",
+      "Ngardmau Waterfall",
+      "Belau National Museum"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Palau"
   },
   {
@@ -1316,7 +2364,15 @@
     "fact": "Palestine is known for its historical significance and cultural heritage.",
     "continent": "Asia",
     "currency": "Israeli new shekel",
-    "subregion": "Western Asia",
+    "totalArea": 6020,
+    "gdpPerCapita": 3199,
+    "iconicPlaces": [
+      "Old City of Jerusalem",
+      "Church of the Nativity",
+      "Dome of the Rock",
+      "Mar Saba Monastery",
+      "Hisham's Palace"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/State_of_Palestine"
   },
   {
@@ -1326,7 +2382,15 @@
     "fact": "Panama is known for the Panama Canal and its biodiversity.",
     "continent": "North America",
     "currency": "Panamanian balboa",
-    "subregion": "Central America",
+    "totalArea": 75417,
+    "gdpPerCapita": 12373,
+    "iconicPlaces": [
+      "Panama Canal",
+      "Casco Viejo",
+      "Bocas del Toro",
+      "San Blas Islands",
+      "Barro Colorado Island"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Panama"
   },
   {
@@ -1336,7 +2400,15 @@
     "fact": "Papua New Guinea is known for its cultural diversity and rainforests.",
     "continent": "Oceania",
     "currency": "Papua New Guinean kina",
-    "subregion": "Melanesia",
+    "totalArea": 462840,
+    "gdpPerCapita": 2613,
+    "iconicPlaces": [
+      "Kokoda Track",
+      "Sepik River",
+      "Mount Wilhelm",
+      "Tavurvur Volcano",
+      "Kuk Early Agricultural Site"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Papua_New_Guinea"
   },
   {
@@ -1346,7 +2418,15 @@
     "fact": "Paraguay is known for its rich Guarani culture and natural beauty.",
     "continent": "South America",
     "currency": "Paraguayan guaraní",
-    "subregion": "South America",
+    "totalArea": 406752,
+    "gdpPerCapita": 4949,
+    "iconicPlaces": [
+      "Iguazu Falls",
+      "Jesuit Missions of La Santísima Trinidad de Paraná",
+      "Pantanal",
+      "Cerro Corá National Park",
+      "Casa de la Independencia Museum"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Paraguay"
   },
   {
@@ -1356,7 +2436,15 @@
     "fact": "Peru is known for its archaeological sites, including Machu Picchu.",
     "continent": "South America",
     "currency": "Peruvian sol",
-    "subregion": "South America",
+    "totalArea": 1285216,
+    "gdpPerCapita": 6127,
+    "iconicPlaces": [
+      "Machu Picchu",
+      "Cusco",
+      "Lake Titicaca",
+      "Nazca Lines",
+      "Colca Canyon"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Peru"
   },
   {
@@ -1366,7 +2454,15 @@
     "fact": "The Philippines is known for its beaches, biodiversity, and cultural heritage.",
     "continent": "Asia",
     "currency": "Philippine peso",
-    "subregion": "Southeast Asia",
+    "totalArea": 300000,
+    "gdpPerCapita": 3299,
+    "iconicPlaces": [
+      "Boracay",
+      "Banaue Rice Terraces",
+      "Chocolate Hills",
+      "Intramuros",
+      "Puerto Princesa Underground River"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Philippines"
   },
   {
@@ -1376,7 +2472,15 @@
     "fact": "Poland is known for its medieval architecture and rich history.",
     "continent": "Europe",
     "currency": "Polish złoty",
-    "subregion": "Eastern Europe",
+    "totalArea": 312696,
+    "gdpPerCapita": 15656,
+    "iconicPlaces": [
+      "Wawel Castle",
+      "Auschwitz-Birkenau Memorial",
+      "Wieliczka Salt Mine",
+      "Old Town, Gdańsk",
+      "Białowieża Forest"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Poland"
   },
   {
@@ -1386,7 +2490,15 @@
     "fact": "Portugal is known for its rich maritime history and beautiful coastlines.",
     "continent": "Europe",
     "currency": "Euro",
-    "subregion": "Southern Europe",
+    "totalArea": 92090,
+    "gdpPerCapita": 22439,
+    "iconicPlaces": [
+      "Belém Tower",
+      "Pena Palace",
+      "Douro Valley",
+      "Jerónimos Monastery",
+      "Algarve Beaches"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Portugal"
   },
   {
@@ -1396,7 +2508,15 @@
     "fact": "Qatar is known for its wealth from oil and gas industries.",
     "continent": "Asia",
     "currency": "Qatari riyal",
-    "subregion": "Middle East",
+    "totalArea": 11586,
+    "gdpPerCapita": 50124,
+    "iconicPlaces": [
+      "Museum of Islamic Art",
+      "The Pearl-Qatar",
+      "Souq Waqif",
+      "Katara Cultural Village",
+      "Aspire Tower"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Qatar"
   },
   {
@@ -1406,7 +2526,15 @@
     "fact": "Romania is known for its forested region of Transylvania, associated with the Dracula legend.",
     "continent": "Europe",
     "currency": "Romanian leu",
-    "subregion": "Eastern Europe",
+    "totalArea": 238397,
+    "gdpPerCapita": 12896,
+    "iconicPlaces": [
+      "Bran Castle",
+      "Palace of Parliament",
+      "Peleș Castle",
+      "Painted Monasteries of Bucovina",
+      "Transfăgărășan Highway"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Romania"
   },
   {
@@ -1416,7 +2544,15 @@
     "fact": "Russia is the largest country in the world by land area.",
     "continent": "Europe/Asia",
     "currency": "Russian ruble",
-    "subregion": "Eastern Europe",
+    "totalArea": 17098246,
+    "gdpPerCapita": 10127,
+    "iconicPlaces": [
+      "Red Square",
+      "Hermitage Museum",
+      "Lake Baikal",
+      "St. Basil's Cathedral",
+      "Trans-Siberian Railway"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Russia"
   },
   {
@@ -1426,7 +2562,15 @@
     "fact": "Rwanda is known for its mountain gorillas and national parks.",
     "continent": "Africa",
     "currency": "Rwandan franc",
-    "subregion": "Eastern Africa",
+    "totalArea": 26338,
+    "gdpPerCapita": 798,
+    "iconicPlaces": [
+      "Volcanoes National Park",
+      "Nyungwe National Park",
+      "Kigali Genocide Memorial",
+      "Akagera National Park",
+      "King's Palace Museum"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Rwanda"
   },
   {
@@ -1436,7 +2580,15 @@
     "fact": "Saint Kitts and Nevis is known for its beaches and scenic railway.",
     "continent": "North America",
     "currency": "East Caribbean dollar",
-    "subregion": "Caribbean",
+    "totalArea": 261,
+    "gdpPerCapita": 18083,
+    "iconicPlaces": [
+      "Brimstone Hill Fortress",
+      "Pinney's Beach",
+      "Mount Liamuiga",
+      "Nevis Peak",
+      "St. Kitts Scenic Railway"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis"
   },
   {
@@ -1446,7 +2598,15 @@
     "fact": "Saint Lucia is known for its twin peaks, the Pitons, and luxury resorts.",
     "continent": "North America",
     "currency": "East Caribbean dollar",
-    "subregion": "Caribbean",
+    "totalArea": 616,
+    "gdpPerCapita": 8848,
+    "iconicPlaces": [
+      "The Pitons",
+      "Marigot Bay",
+      "Sulphur Springs",
+      "Pigeon Island National Park",
+      "Diamond Falls Botanical Gardens"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Saint_Lucia"
   },
   {
@@ -1456,7 +2616,15 @@
     "fact": "Saint Vincent and the Grenadines is known for its sailing and island-hopping opportunities.",
     "continent": "North America",
     "currency": "East Caribbean dollar",
-    "subregion": "Caribbean",
+    "totalArea": 389,
+    "gdpPerCapita": 7212,
+    "iconicPlaces": [
+      "Tobago Cays",
+      "Bequia",
+      "Botanic Gardens",
+      "La Soufrière Volcano",
+      "Mustique Island"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines"
   },
   {
@@ -1466,7 +2634,15 @@
     "fact": "Samoa is known for its natural beauty and traditional Samoan culture.",
     "continent": "Oceania",
     "currency": "Samoan tālā",
-    "subregion": "Polynesia",
+    "totalArea": 2831,
+    "gdpPerCapita": 4067,
+    "iconicPlaces": [
+      "To Sua Ocean Trench",
+      "Lalomanu Beach",
+      "Robert Louis Stevenson Museum",
+      "Papaseea Sliding Rocks",
+      "Piula Cave Pool"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Samoa"
   },
   {
@@ -1476,7 +2652,15 @@
     "fact": "San Marino is one of the world's oldest republics, known for its historic architecture.",
     "continent": "Europe",
     "currency": "Euro",
-    "subregion": "Southern Europe",
+    "totalArea": 61,
+    "gdpPerCapita": 47906,
+    "iconicPlaces": [
+      "Monte Titano",
+      "Guaita Tower",
+      "Palazzo Pubblico",
+      "Basilica di San Marino",
+      "Cesta Tower"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/San_Marino"
   },
   {
@@ -1486,7 +2670,15 @@
     "fact": "Sao Tome and Principe is known for its biodiversity and cocoa production.",
     "continent": "Africa",
     "currency": "São Tomé and Príncipe dobra",
-    "subregion": "Middle Africa",
+    "totalArea": 964,
+    "gdpPerCapita": 1961,
+    "iconicPlaces": [
+      "Obo National Park",
+      "Boca do Inferno",
+      "Pico Cão Grande",
+      "Lagoa Azul",
+      "Roca Belo Monte"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/São_Tomé_and_Príncipe"
   },
   {
@@ -1496,7 +2688,15 @@
     "fact": "Saudi Arabia is known for its vast deserts and oil wealth.",
     "continent": "Asia",
     "currency": "Saudi riyal",
-    "subregion": "Middle East",
+    "totalArea": 2149690,
+    "gdpPerCapita": 20110,
+    "iconicPlaces": [
+      "Mecca Grand Mosque",
+      "Madain Saleh",
+      "The Edge of the World",
+      "Al-Masjid an-Nabawi",
+      "Kingdom Centre Tower"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Saudi_Arabia"
   },
   {
@@ -1506,7 +2706,15 @@
     "fact": "Senegal is known for its vibrant music and rich cultural heritage.",
     "continent": "Africa",
     "currency": "West African CFA franc",
-    "subregion": "West Africa",
+    "totalArea": 196722,
+    "gdpPerCapita": 1471,
+    "iconicPlaces": [
+      "Gorée Island",
+      "Pink Lake (Lake Retba)",
+      "Djoudj National Bird Sanctuary",
+      "African Renaissance Monument",
+      "Niokolo-Koba National Park"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Senegal"
   },
   {
@@ -1516,7 +2724,15 @@
     "fact": "Serbia is known for its historical sites and vibrant culture.",
     "continent": "Europe",
     "currency": "Serbian dinar",
-    "subregion": "Balkans",
+    "totalArea": 88361,
+    "gdpPerCapita": 7666,
+    "iconicPlaces": [
+      "Belgrade Fortress",
+      "Studenica Monastery",
+      "Zlatibor",
+      "Djerdap National Park",
+      "Novi Sad"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Serbia"
   },
   {
@@ -1526,7 +2742,15 @@
     "fact": "Seychelles is known for its beautiful beaches, coral reefs, and nature reserves.",
     "continent": "Africa",
     "currency": "Seychellois rupee",
-    "subregion": "East Africa",
+    "totalArea": 459,
+    "gdpPerCapita": 11425,
+    "iconicPlaces": [
+      "Anse Source d'Argent",
+      "Vallée de Mai",
+      "Morne Seychellois National Park",
+      "Curieuse Island",
+      "Beau Vallon"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Seychelles"
   },
   {
@@ -1536,7 +2760,15 @@
     "fact": "Sierra Leone is known for its beautiful beaches and rich history.",
     "continent": "Africa",
     "currency": "Sierra Leonean leone",
-    "subregion": "West Africa",
+    "totalArea": 71740,
+    "gdpPerCapita": 485,
+    "iconicPlaces": [
+      "Tacugama Chimpanzee Sanctuary",
+      "Bunce Island",
+      "Tiwai Island Wildlife Sanctuary",
+      "River No. 2 Beach",
+      "Outamba-Kilimi National Park"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Sierra_Leone"
   },
   {
@@ -1546,7 +2778,15 @@
     "fact": "Singapore is known for its modern skyline and vibrant food scene.",
     "continent": "Asia",
     "currency": "Singapore dollar",
-    "subregion": "Southeast Asia",
+    "totalArea": 728,
+    "gdpPerCapita": 59798,
+    "iconicPlaces": [
+      "Marina Bay Sands",
+      "Gardens by the Bay",
+      "Sentosa Island",
+      "Singapore Zoo",
+      "Orchard Road"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Singapore"
   },
   {
@@ -1556,7 +2796,15 @@
     "fact": "Slovakia is known for its castles and mountainous landscapes.",
     "continent": "Europe",
     "currency": "Euro",
-    "subregion": "Eastern Europe",
+    "totalArea": 49035,
+    "gdpPerCapita": 19267,
+    "iconicPlaces": [
+      "Spiš Castle",
+      "High Tatras",
+      "Bojnice Castle",
+      "Slovak Paradise National Park",
+      "St. Elizabeth's Cathedral, Košice"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Slovakia"
   },
   {
@@ -1566,7 +2814,15 @@
     "fact": "Slovenia is known for its lakes, caves, and picturesque towns.",
     "continent": "Europe",
     "currency": "Euro",
-    "subregion": "Balkans",
+    "totalArea": 20273,
+    "gdpPerCapita": 25179,
+    "iconicPlaces": [
+      "Lake Bled",
+      "Postojna Cave",
+      "Triglav National Park",
+      "Predjama Castle",
+      "Piran"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Slovenia"
   },
   {
@@ -1576,7 +2832,15 @@
     "fact": "The Solomon Islands are known for their WWII history and marine biodiversity.",
     "continent": "Oceania",
     "currency": "Solomon Islands dollar",
-    "subregion": "Melanesia",
+    "totalArea": 28896,
+    "gdpPerCapita": 2258,
+    "iconicPlaces": [
+      "Mataniko Falls",
+      "Bonegi I and II",
+      "Marovo Lagoon",
+      "Skull Island",
+      "Tenaru Falls"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Solomon_Islands"
   },
   {
@@ -1586,7 +2850,15 @@
     "fact": "Somalia is known for its rich culture and history.",
     "continent": "Africa",
     "currency": "Somali shilling",
-    "subregion": "Eastern Africa",
+    "totalArea": 637657,
+    "gdpPerCapita": 347,
+    "iconicPlaces": [
+      "Laas Geel Cave Paintings",
+      "Mogadishu Cathedral",
+      "Iskushuban Waterfall",
+      "Gezira Beach",
+      "Kismayo National Park"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Somalia"
   },
   {
@@ -1596,7 +2868,15 @@
     "fact": "South Africa is known for its diverse cultures and natural beauty.",
     "continent": "Africa",
     "currency": "South African rand",
-    "subregion": "Southern Africa",
+    "totalArea": 1219090,
+    "gdpPerCapita": 5091,
+    "iconicPlaces": [
+      "Kruger National Park",
+      "Table Mountain",
+      "Robben Island",
+      "Cape of Good Hope",
+      "Blyde River Canyon"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/South_Africa"
   },
   {
@@ -1606,7 +2886,15 @@
     "fact": "South Sudan is known for its diverse ethnic groups and wildlife.",
     "continent": "Africa",
     "currency": "South Sudanese pound",
-    "subregion": "Eastern Africa",
+    "totalArea": 619745,
+    "gdpPerCapita": 275,
+    "iconicPlaces": [
+      "Boma National Park",
+      "Nimule National Park",
+      "Southern National Park",
+      "Bandingilo National Park",
+      "Juba Game Reserve"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/South_Sudan"
   },
   {
@@ -1616,7 +2904,15 @@
     "fact": "Spain is known for its rich history, art, and cuisine.",
     "continent": "Europe",
     "currency": "Euro",
-    "subregion": "Southern Europe",
+    "totalArea": 505990,
+    "gdpPerCapita": 27057,
+    "iconicPlaces": [
+      "Sagrada Familia",
+      "Alhambra",
+      "Park Güell",
+      "Plaza Mayor",
+      "La Concha Beach"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Spain"
   },
   {
@@ -1626,7 +2922,15 @@
     "fact": "Sri Lanka is known for its ancient ruins, tea plantations, and diverse landscapes.",
     "continent": "Asia",
     "currency": "Sri Lankan rupee",
-    "subregion": "South Asia",
+    "totalArea": 65610,
+    "gdpPerCapita": 3682,
+    "iconicPlaces": [
+      "Sigiriya",
+      "Temple of the Tooth",
+      "Yala National Park",
+      "Galle Fort",
+      "Adam's Peak"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Sri_Lanka"
   },
   {
@@ -1636,7 +2940,15 @@
     "fact": "Sudan is known for its pyramids and archaeological sites.",
     "continent": "Africa",
     "currency": "Sudanese pound",
-    "subregion": "Northern Africa",
+    "totalArea": 1861484,
+    "gdpPerCapita": 595,
+    "iconicPlaces": [
+      "Meroe Pyramids",
+      "Dinder National Park",
+      "Sanganeb National Park",
+      "Taka Mountains",
+      "Suakin Island"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Sudan"
   },
   {
@@ -1646,7 +2958,15 @@
     "fact": "Suriname is known for its rainforests and Dutch colonial architecture.",
     "continent": "South America",
     "currency": "Surinamese dollar",
-    "subregion": "South America",
+    "totalArea": 163820,
+    "gdpPerCapita": 6491,
+    "iconicPlaces": [
+      "Central Suriname Nature Reserve",
+      "Fort Zeelandia",
+      "Brownsberg Nature Park",
+      "Saint Peter and Paul Cathedral",
+      "Galibi Nature Reserve"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Suriname"
   },
   {
@@ -1656,7 +2976,15 @@
     "fact": "Sweden is known for its innovation, design, and beautiful landscapes.",
     "continent": "Europe",
     "currency": "Swedish krona",
-    "subregion": "Scandinavia",
+    "totalArea": 450295,
+    "gdpPerCapita": 51925,
+    "iconicPlaces": [
+      "Vasa Museum",
+      "Gamla Stan",
+      "ICEHOTEL",
+      "Drottningholm Palace",
+      "Oresund Bridge"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Sweden"
   },
   {
@@ -1666,7 +2994,15 @@
     "fact": "Switzerland is known for its mountains, chocolates, and banking industry.",
     "continent": "Europe",
     "currency": "Swiss franc",
-    "subregion": "Western Europe",
+    "totalArea": 41284,
+    "gdpPerCapita": 87097,
+    "iconicPlaces": [
+      "Matterhorn",
+      "Château de Chillon",
+      "Lake Geneva",
+      "Jungfraujoch",
+      "Lucerne Old Town"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Switzerland"
   },
   {
@@ -1676,7 +3012,15 @@
     "fact": "Syria is known for its ancient history and cultural heritage.",
     "continent": "Asia",
     "currency": "Syrian pound",
-    "subregion": "Middle East",
+    "totalArea": 185180,
+    "gdpPerCapita": 2033,
+    "iconicPlaces": [
+      "Krak des Chevaliers",
+      "Ancient City of Palmyra",
+      "Umayyad Mosque",
+      "Bosra",
+      "Aleppo Citadel"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Syria"
   },
   {
@@ -1686,7 +3030,15 @@
     "fact": "Taiwan is known for its night markets and technological advancements.",
     "continent": "Asia",
     "currency": "New Taiwan dollar",
-    "subregion": "Eastern Asia",
+    "totalArea": 36193,
+    "gdpPerCapita": 28371,
+    "iconicPlaces": [
+      "Taipei 101",
+      "Taroko National Park",
+      "Sun Moon Lake",
+      "National Palace Museum",
+      "Jiufen Old Street"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Taiwan"
   },
   {
@@ -1696,7 +3048,15 @@
     "fact": "Tajikistan is known for its rugged mountains and ancient Silk Road history.",
     "continent": "Asia",
     "currency": "Tajikistani somoni",
-    "subregion": "Central Asia",
+    "totalArea": 143100,
+    "gdpPerCapita": 859,
+    "iconicPlaces": [
+      "Pamir Mountains",
+      "Iskanderkul Lake",
+      "Hissor Fortress",
+      "Fann Mountains",
+      "Rudaki Park"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Tajikistan"
   },
   {
@@ -1706,7 +3066,15 @@
     "fact": "Tanzania is known for its wildlife safaris and Mount Kilimanjaro.",
     "continent": "Africa",
     "currency": "Tanzanian shilling",
-    "subregion": "Eastern Africa",
+    "totalArea": 947303,
+    "gdpPerCapita": 1077,
+    "iconicPlaces": [
+      "Mount Kilimanjaro",
+      "Serengeti National Park",
+      "Zanzibar",
+      "Ngorongoro Crater",
+      "Olduvai Gorge"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Tanzania"
   },
   {
@@ -1716,7 +3084,15 @@
     "fact": "Thailand is known for its tropical beaches, opulent royal palaces, and ancient ruins.",
     "continent": "Asia",
     "currency": "Thai baht",
-    "subregion": "Southeast Asia",
+    "totalArea": 513120,
+    "gdpPerCapita": 7189,
+    "iconicPlaces": [
+      "Grand Palace",
+      "Wat Phra Kaew",
+      "Phi Phi Islands",
+      "Ayutthaya Historical Park",
+      "Chiang Mai Night Bazaar"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Thailand"
   },
   {
@@ -1726,7 +3102,15 @@
     "fact": "Timor-Leste is known for its rich cultural heritage and beautiful landscapes.",
     "continent": "Asia",
     "currency": "United States dollar",
-    "subregion": "Southeast Asia",
+    "totalArea": 14874,
+    "gdpPerCapita": 1294,
+    "iconicPlaces": [
+      "Cristo Rei of Dili",
+      "Atauro Island",
+      "Mount Ramelau",
+      "Jaco Island",
+      "Nino Konis Santana National Park"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/East_Timor"
   },
   {
@@ -1736,7 +3120,15 @@
     "fact": "Togo is known for its palm-lined beaches and hilltop villages.",
     "continent": "Africa",
     "currency": "West African CFA franc",
-    "subregion": "West Africa",
+    "totalArea": 56785,
+    "gdpPerCapita": 679,
+    "iconicPlaces": [
+      "Koutammakou",
+      "Togoville",
+      "Mount Agou",
+      "Fazao Malfakassa National Park",
+      "Lake Togo"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Togo"
   },
   {
@@ -1746,7 +3138,15 @@
     "fact": "Tonga is known for its Polynesian culture and friendly people.",
     "continent": "Oceania",
     "currency": "Tongan paʻanga",
-    "subregion": "Polynesia",
+    "totalArea": 747,
+    "gdpPerCapita": 4903,
+    "iconicPlaces": [
+      "Haʻamonga ʻa Maui",
+      "Mapu ʻa Vaea Blowholes",
+      "Anahulu Cave",
+      "Tofua Island",
+      "Talamahu Market"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Tonga"
   },
   {
@@ -1756,7 +3156,15 @@
     "fact": "Trinidad and Tobago is known for its Carnival and diverse culture.",
     "continent": "North America",
     "currency": "Trinidad and Tobago dollar",
-    "subregion": "Caribbean",
+    "totalArea": 5128,
+    "gdpPerCapita": 15426,
+    "iconicPlaces": [
+      "Maracas Beach",
+      "Pitch Lake",
+      "Asa Wright Nature Centre",
+      "Pigeon Point",
+      "Fort King George"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago"
   },
   {
@@ -1766,7 +3174,15 @@
     "fact": "Tunisia is known for its Mediterranean coastline and ancient ruins.",
     "continent": "Africa",
     "currency": "Tunisian dinar",
-    "subregion": "North Africa",
+    "totalArea": 163610,
+    "gdpPerCapita": 3317,
+    "iconicPlaces": [
+      "Amphitheatre of El Jem",
+      "Medina of Tunis",
+      "Dougga",
+      "Sidi Bou Said",
+      "Bardo National Museum"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Tunisia"
   },
   {
@@ -1776,7 +3192,15 @@
     "fact": "Turkey is known for its rich history and cultural heritage.",
     "continent": "Asia/Europe",
     "currency": "Turkish lira",
-    "subregion": "West Asia",
+    "totalArea": 783562,
+    "gdpPerCapita": 8538,
+    "iconicPlaces": [
+      "Hagia Sophia",
+      "Cappadocia",
+      "Pamukkale",
+      "Ephesus",
+      "Blue Mosque"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Turkey"
   },
   {
@@ -1786,7 +3210,15 @@
     "fact": "Turkmenistan is known for its ancient history and the Karakum Desert.",
     "continent": "Asia",
     "currency": "Turkmenistan manat",
-    "subregion": "Central Asia",
+    "totalArea": 488100,
+    "gdpPerCapita": 7612,
+    "iconicPlaces": [
+      "Darvaza Gas Crater",
+      "Ancient Merv",
+      "Ashgabat",
+      "Kow Ata Underground Lake",
+      "Yangykala Canyon"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Turkmenistan"
   },
   {
@@ -1796,7 +3228,15 @@
     "fact": "Tuvalu is known for its low-lying atolls and marine life.",
     "continent": "Australia",
     "currency": "Tuvaluan dollar",
-    "subregion": "Polynesia",
+    "totalArea": 26,
+    "gdpPerCapita": 4083,
+    "iconicPlaces": [
+      "Funafuti Conservation Area",
+      "Nanumanga",
+      "Funafuti Lagoon",
+      "Tepuka Vili Vili",
+      "Fongafale"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Tuvalu"
   },
   {
@@ -1806,7 +3246,15 @@
     "fact": "Uganda is known for its mountain gorillas and diverse wildlife.",
     "continent": "Africa",
     "currency": "Ugandan shilling",
-    "subregion": "Eastern Africa",
+    "totalArea": 241038,
+    "gdpPerCapita": 794,
+    "iconicPlaces": [
+      "Bwindi Impenetrable National Park",
+      "Murchison Falls",
+      "Queen Elizabeth National Park",
+      "Lake Victoria",
+      "Rwenzori Mountains"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Uganda"
   },
   {
@@ -1816,7 +3264,15 @@
     "fact": "Ukraine is known for its rich culture and history.",
     "continent": "Europe",
     "currency": "Ukrainian hryvnia",
-    "subregion": "Eastern Europe",
+    "totalArea": 603500,
+    "gdpPerCapita": 3726,
+    "iconicPlaces": [
+      "Kyiv Pechersk Lavra",
+      "Chernobyl Exclusion Zone",
+      "Saint Sophia Cathedral",
+      "Lviv Old Town",
+      "Odessa Opera and Ballet Theater"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Ukraine"
   },
   {
@@ -1826,7 +3282,15 @@
     "fact": "The UAE is known for its modern architecture and luxurious lifestyle.",
     "continent": "Asia",
     "currency": "United Arab Emirates dirham",
-    "subregion": "Middle East",
+    "totalArea": 83600,
+    "gdpPerCapita": 43103,
+    "iconicPlaces": [
+      "Burj Khalifa",
+      "Sheikh Zayed Mosque",
+      "Palm Jumeirah",
+      "Dubai Mall",
+      "Ferrari World"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/United_Arab_Emirates"
   },
   {
@@ -1836,7 +3300,15 @@
     "fact": "The UK is known for its rich history, cultural influence, and iconic landmarks.",
     "continent": "Europe",
     "currency": "Pound sterling",
-    "subregion": "Northern Europe",
+    "totalArea": 242495,
+    "gdpPerCapita": 46344,
+    "iconicPlaces": [
+      "Big Ben",
+      "Stonehenge",
+      "Tower Bridge",
+      "Buckingham Palace",
+      "Edinburgh Castle"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/United_Kingdom"
   },
   {
@@ -1846,7 +3318,15 @@
     "fact": "The USA is known for its cultural diversity and economic influence.",
     "continent": "North America",
     "currency": "United States dollar",
-    "subregion": "North America",
+    "totalArea": 9833517,
+    "gdpPerCapita": 63544,
+    "iconicPlaces": [
+      "Statue of Liberty",
+      "Grand Canyon",
+      "Golden Gate Bridge",
+      "Times Square",
+      "White House"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/United_States"
   },
   {
@@ -1856,7 +3336,15 @@
     "fact": "Uruguay is known for its beach-lined coast and vibrant culture.",
     "continent": "South America",
     "currency": "Uruguayan peso",
-    "subregion": "South America",
+    "totalArea": 176215,
+    "gdpPerCapita": 17689,
+    "iconicPlaces": [
+      "Colonia del Sacramento",
+      "Casapueblo",
+      "Punta del Este",
+      "Montevideo Metropolitan Cathedral",
+      "Salvo Palace"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Uruguay"
   },
   {
@@ -1866,7 +3354,15 @@
     "fact": "Uzbekistan is known for its Silk Road history and architectural landmarks.",
     "continent": "Asia",
     "currency": "Uzbekistani som",
-    "subregion": "Central Asia",
+    "totalArea": 447400,
+    "gdpPerCapita": 1832,
+    "iconicPlaces": [
+      "Registan",
+      "Bibi-Khanym Mosque",
+      "Shah-i-Zinda",
+      "Tashkent Tower",
+      "Chorsu Bazaar"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Uzbekistan"
   },
   {
@@ -1876,7 +3372,15 @@
     "fact": "Vanuatu is known for its volcanic landscapes and coral reefs.",
     "continent": "Australia",
     "currency": "Vanuatu vatu",
-    "subregion": "Melanesia",
+    "totalArea": 12189,
+    "gdpPerCapita": 3130,
+    "iconicPlaces": [
+      "Mount Yasur",
+      "Champagne Beach",
+      "Blue Holes",
+      "Mele Cascades",
+      "Millennium Cave"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Vanuatu"
   },
   {
@@ -1886,7 +3390,15 @@
     "fact": "Vatican City is known for being the smallest independent state in the world.",
     "continent": "Europe",
     "currency": "Euro",
-    "subregion": "Italy",
+    "totalArea": 0.44,
+    "gdpPerCapita": null,
+    "iconicPlaces": [
+      "St. Peter's Basilica",
+      "Sistine Chapel",
+      "Vatican Museums",
+      "St. Peter's Square",
+      "Apostolic Palace"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Vatican_City"
   },
   {
@@ -1896,7 +3408,15 @@
     "fact": "Venezuela is known for its diverse landscapes and oil resources.",
     "continent": "South America",
     "currency": "Venezuelan bolívar",
-    "subregion": "South America",
+    "totalArea": 916445,
+    "gdpPerCapita": 3374,
+    "iconicPlaces": [
+      "Angel Falls",
+      "Morrocoy National Park",
+      "Mount Roraima",
+      "Canaima National Park",
+      "Los Roques Archipelago"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Venezuela"
   },
   {
@@ -1906,7 +3426,15 @@
     "fact": "Vietnam is known for its rich cultural heritage and beautiful landscapes.",
     "continent": "Asia",
     "currency": "Vietnamese đồng",
-    "subregion": "Southeast Asia",
+    "totalArea": 331212,
+    "gdpPerCapita": 2715,
+    "iconicPlaces": [
+      "Ha Long Bay",
+      "Hoi An Ancient Town",
+      "Saigon Notre-Dame Basilica",
+      "Mekong Delta",
+      "Hue Imperial City"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Vietnam"
   },
   {
@@ -1916,7 +3444,15 @@
     "fact": "Yemen is known for its historic cities and unique architecture.",
     "continent": "Asia",
     "currency": "Yemeni rial",
-    "subregion": "Middle East",
+    "totalArea": 527968,
+    "gdpPerCapita": 944,
+    "iconicPlaces": [
+      "Old City of Sana'a",
+      "Socotra Island",
+      "Shibam",
+      "Dar al-Hajar",
+      "Al Saleh Mosque"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Yemen"
   },
   {
@@ -1926,7 +3462,15 @@
     "fact": "Zambia is known for its national parks and Victoria Falls.",
     "continent": "Africa",
     "currency": "Zambian kwacha",
-    "subregion": "Eastern Africa",
+    "totalArea": 752612,
+    "gdpPerCapita": 1305,
+    "iconicPlaces": [
+      "Victoria Falls",
+      "South Luangwa National Park",
+      "Lower Zambezi National Park",
+      "Kafue National Park",
+      "Kariba Dam"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Zambia"
   },
   {
@@ -1936,7 +3480,15 @@
     "fact": "Zimbabwe is known for its wildlife and Victoria Falls.",
     "continent": "Africa",
     "currency": "RTGS Dollar",
-    "subregion": "Eastern Africa",
+    "totalArea": 390757,
+    "gdpPerCapita": 1128,
+    "iconicPlaces": [
+      "Victoria Falls",
+      "Great Zimbabwe",
+      "Hwange National Park",
+      "Mana Pools National Park",
+      "Matobo National Park"
+    ],
     "wikiLink": "https://en.wikipedia.org/wiki/Zimbabwe"
   }
 ]
